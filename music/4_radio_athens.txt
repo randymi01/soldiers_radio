@@ -1,0 +1,101 @@
+
+music_station = "radio_athens"
+
+music = {
+	song = "Apó To Vrády, Os To Proí"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Atakti"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chronia Ston Peraia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dimitroula mou"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Fragosyriani"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen (Ellinikí Ékdosi)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mávra Mátia Mávra Frýdia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "To Haremi sto Hamam"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vale me Stin Agalia Sou"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Yanousena"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Misirlou"
+
+	chance = {
+		factor = 1
+
+	}
+}

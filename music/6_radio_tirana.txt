@@ -1,0 +1,47 @@
+
+music_station = "radio_tirana"
+
+music = {
+	song = "Asaman moj lule"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kur më vjen burri nga stani"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Qaj moj Minushe"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Te dua moj goce e vogel"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zare trendafile"
+
+	chance = {
+		factor = 1
+
+	}
+}

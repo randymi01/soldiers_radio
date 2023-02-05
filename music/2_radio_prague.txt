@@ -1,0 +1,201 @@
+music_station = "radio_prague"
+
+music = {
+	song = "Šaty dělaj člověka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Babička Mary"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Bleška veška"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Civilizace"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "David a Goliáš"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ezop a brabenec"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hodné štěně"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kat a blázen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nebe na zemi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Píseň strašlivá o Golemovi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Potopa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Stonožka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ten umí to a ten zas tohle"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tmavomodrý svět"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tři strážníci"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hostina Chudych"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "Hej, pane králi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Život je jen náhoda"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lily Marlén Slovenska"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Shiner Song Polka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tmavě modrý svět"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Holduj tanci, pohybu"
+
+	chance = {
+		factor = 1
+
+	}
+}

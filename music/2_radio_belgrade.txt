@@ -1,0 +1,297 @@
+music_station = "radio_belgrade"
+
+music = {
+	song = "Čudo jada od Mostara grada"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Srdo moja, ne srdi se na me"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mislio sam da je život"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pod bregom se jela razgranala"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rujna zora"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Knjigu piše kralj Srbije"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Marširala Kralja Petra Garda"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kad sam bio mlađan lovac ja"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kradem ti se u večeri"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mezimica"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nekad cvale bele ruže"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Neven Kolo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Od kako sam sevdah svezo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Oj kaduno"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Opijo sam se, e pa šta"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Slomljena Nada"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Spremte se spremte Četnici"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "U mom selu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "U Stambulu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vetar ružu poljuljkuje"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zlatna grivna"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Crnogorac, Crnogorki"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Konja vodim, pješke hodim"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Petlite Pejat Den Mi Se Deni"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Srpska Lili Marlin"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Moj dilbere"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Oj Dunave"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cojle Manojle"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hoće čiča, hoće rano"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Po Gradini Meseina Sija Meka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Bački Svatovac"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tamo Daleko"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kako umire Dalmatinac"
+
+	chance = {
+		factor = 1
+
+	}
+}

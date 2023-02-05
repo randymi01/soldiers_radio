@@ -1,0 +1,47 @@
+
+music_station = "radio_vilnius"
+
+music = {
+	song = "Ei Tu, Mergyte"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maryte Melynake"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pasaka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Paskutini Sekmadieni"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tukstanciai Ziedu"
+
+	chance = {
+		factor = 1
+
+	}
+}

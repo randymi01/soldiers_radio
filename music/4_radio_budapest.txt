@@ -1,0 +1,136 @@
+music_station = "radio_budapest"
+
+music = {
+	song = "Balalajka sír az éjben"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Beszéljünk másról"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dóczy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Drunt' in der Lobau"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Eredj, ha tudsz"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Szomorú vasárnap"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Es Baka Vagyok én"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hívjon fel éjszaka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Komm Zigany"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lehet, hogy túlságosan szerettelek"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Magyar Lili Marleen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Muszka földről"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ne legyen tavasz, ne legyen május"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nem zavarom tovább az életedet"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sivár Buckatetőn"
+
+	chance = {
+		factor = 1
+
+	}
+}

@@ -1,0 +1,5649 @@
+# MAINTHEME
+
+music = {
+	name = "You're Getting to Be a Habit With Me"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.6
+}
+
+# SOVIET UNION
+
+music = {
+	name = "Ah Andrjusha"
+	file = "ah_andrjusha.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Andrjusha. Foxtrot"
+	file = "andrusha_foxtrot_pjotr_leschenko.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bessarabjanka"
+	file = "bessarabjanka_pjotr_leschenko.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bombardirovschiki"
+	file = "bombardirovschiki.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bryzgi Shampanskogo"
+	file = "bryzgi_shampanskogo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dalnyj put"
+	file = "dalnyj_put.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dni begut"
+	file = "dni_begut_aleksander_vertinskij.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Druzja odnopolchane"
+	file = "druzja_odnopolchane.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Esli mozhesh', prosti"
+	file = "esli_mozhesh_prosti_izabella_jurjeva.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fox-krakowiak"
+	file = "foxkrakowiak.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Gedenk"
+	file = "gedenk.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Golubka"
+	file = "golubka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Gori, gori, moja zvezda"
+	file = "gori_gori_moja_zvezda_georgij_vinogradov.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Govori so mnoj o ljubvi"
+	file = "govori_so_mnoj_o_ljubvi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Izvozchik"
+	file = "izvozchik.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ja ne proshajus"
+	file = "ja_ne_proschajus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ja vozvraschaju vash portret"
+	file = "ja_vozvraschaju_vash_portret_georgij_vinogradov.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J'attendrai by Efrem Flaks"
+	file = "jattendrai_efrem_flaks.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Katyusha"
+	file = "katyusha.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marlen Rus"
+	file = "lili_marleen_rus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Markiza"
+	file = "markiza.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mayn Shtetele Belz"
+	file = "mayn_shtetele_belz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mne beskonechno zhal'"
+	file = "mne_beskonechno_zhal_ivan_shmeljov.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Na Volge shirokoj"
+	file = "na_volge_shirokoj_ivan_shmeljov.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nad rozovym morem"
+	file = "nad_rozovym_morem_alexander_vertinskij.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nasha ljubov'"
+	file = "nasha_ljubov_georgij_vinogradov.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ne zabud"
+	file = "ne_zabud.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oh Yossel Yossel"
+	file = "oh_yossel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ochechonya"
+	file = "koila_nejin_ochechonya.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Osen'"
+	file = "osen_vadim_kozin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ozhidanije"
+	file = "ozhidanije.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pesenka otdyha"
+	file = "pesenka_otdyha.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rio Rita"
+	file = "rio_rita.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Samovar"
+	file = "samovar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sasha"
+	file = "sasha.ogg"
+	volume = 1
+}
+
+music = {
+	name = "School Waltz"
+	file = "school_waltz_isaak_dunayevsky.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shar goluboj"
+	file = "shar_goluboj.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sinij platochek"
+	file = "sinij_platochek.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Skazhite, pochemu"
+	file = "skazhite_pochemu_pjotr_leschenko.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tate Mame"
+	file = "tate_mame.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tat'jana"
+	file = "tatiana_pjotr_leshchenko.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Temnaya noch'"
+	file = "mark_naumovich_bernes_dark_is_the_night.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ty pomnish"
+	file = "ty_pomnish.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Utomljonnoe solnce"
+	file = "utomljonnoe_solnce.ogg"
+	volume = 1
+}
+
+music = {
+	name = "V vagone poezda"
+	file = "v_vagone_poezda.ogg"
+	volume = 1
+}
+
+music = {
+	name = "V zemljanke"
+	file = "v_zemljanke.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vecher na reide"
+	file = "vecher_na_reide.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vechnyj strannik"
+	file = "vechnyj_strannik.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vengerka"
+	file = "vengerka_1949.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vsjo chto bylo"
+	file = "vsjo_chto_bylo_pjotr_leschenko.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Waltz - Amur Waves"
+	file = "waltz_amur_waves_mkuess.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Waltz - Blue Night"
+	file = "waltz_blue_night_vasily_agapkin.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Waltz - In a Public Garden"
+	file = "waltz_in_a_public_garden_matvei_blanter.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Waltz - In the Forest near Battle Line"
+	file = "waltz_in_the_forest_near_battle_line_matvey_blanter.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Waltz No.2 - Dmitrij Shostakovich"
+	file = "waltz_no_2_dmitrij_shostakovich.ogg"
+	volume = 1
+}
+
+# GERMANY
+
+music = {
+	name = "Ich habe ein Millionen-Dollar-Baby gefunden"
+	file = "adolf_ginsburg_orch_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Antje, mein blondes Kind"
+	file = "antje_mein_blondes_kind_niel_wilhelm_strienz_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bjrneborgarnas Marsch"
+	file = "bjrneborgarnas_marsch_trad_ii_marine_artillerie_abteilung_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bum Bum!"
+	file = "bumbum.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Das alte Spinnrad"
+	file = "das_alte_spinnrad.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Der Mond Scheint In Mein Kmmerlein"
+	file = "der_mond_scheint_in_mein_kmmerlein_niel_erwin_bolt_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Du bist meine große Leidenschaft"
+	file = "du_bist_meine_grobe_leidenschaft.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Du bist mein Typ"
+	file = "du_bist_mein_typ.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Du kannst nicht treu sein"
+	file = "du_kannst_nicht_treu_sein_otten_die_metropol_vokalisten_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Du Schnste vom Stdtel schwarzbraunes Mdel"
+	file = "du_schnste_vom_stdtel_schwarzbraunes_mdel_herms_niel_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Du brauchst von meinen Tränen"
+	file = "dubrauchstvon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Eine Seefahrt, die ist lustig"
+	file = "eine_seefahrt_die_ist_lustig.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Erika by Heyn-Quartett"
+	file = "erika_rare_version.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wochenende"
+	file = "eugen_grossmann_weekend_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Micaela"
+	file = "german_tango_micaela_barnabas.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Glocken der Heimat"
+	file = "glockenderheimat.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Schuricke-Terzett - Schön ist die Welt"
+	file = "hans_carste_schuricke_terzett_schn_ist_die_welt_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hein Mück"
+	file = "hein_mck_engel_berger_hans_carste_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Heut' stechen wir ins blaue Meer"
+	file = "heut_stechen_wir_ins_blaue_meer.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ich geh' auf große Fahrt, Marie!"
+	file = "ich_geh_auf_groe_fahrt_marie_niel_erich_schneidewind_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ich bin Rosengarten von Sanssouci"
+	file = "im_rosengarten_von_sanssouci_ailbout_niel_fred_bird_1929.ogg"
+	volume = 1
+}
+
+music = {
+	name = "In Sanssouci, am Mühlenberg"
+	file = "in_sanssouci_am_mhlenberg_herms_niel_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "In Lamberts Nachtlokal"
+	file = "inlambertsnachtlokal.ogg"
+	volume = 1
+}
+
+music = {
+	name = "In meiner Badewanne bin ich Kapitän"
+	file = "inmeinerbadewannebinichkapitan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ja und nein!"
+	file = "ja_und_nein.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kleines Mädel"
+	file = "kleines_madel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Komm zurück"
+	file = "komm_zuruck.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Komm zurück 2"
+	file = "komm_zuruck_2.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kommen Sie morgen wieder"
+	file = "kommen_sie_morgen_wieder.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lebe wohl, ade!"
+	file = "lebe_wohl_ade_niel_die_vier_richters_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Leonore"
+	file = "leonore_niel_hans_bund_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen"
+	file = "lili_marleen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mach dir nichts daraus"
+	file = "mach_dir_nichts_daraus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Die Antwort weiss ganz allein der Wind"
+	file = "marlene_dietrich_die_antwort_weiss_ganz_allein_der_wind.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wieder verlieben"
+	file = "marlene_dietrich_falling_in_love_again_in_german.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen by Marlene Dietrich"
+	file = "marlene_dietrich_lili_marleen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marlene"
+	file = "marlene_dietrich_lili_marlene_original_song.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sag mir, wo die Blumen sind"
+	file = "marlene_dietrich_sag_mir_wo_die_blumen_sind.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wenn Die Soldaten"
+	file = "marlene_dietrich_wenn_die_soldaten.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Musik, Musik, Musik!"
+	file = "musik_musik_musik_aus_dem_film_hallo_janine.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lab Die Frau Die Dich Liebt Niemand"
+	file = "new_lab_die_frau_die_dich_liebt_niemand.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rosemarie"
+	file = "rosemarie_niel_horst_schimmelpfennig_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Roter Mohn"
+	file = "rotermohn.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ruck Zuck"
+	file = "ruck_zuck_niel_fritz_domina_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sag´ mir nicht «Adieu»..."
+	file = "sag_mir_nicht_adieu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "So Geht"
+	file = "sogeht.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Spaziergang"
+	file = "spaziergang.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stuka ber Afrika"
+	file = "stuka_ber_afrika_herms_nie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Swing aus Berlin"
+	file = "swing_from_berlin_17_will_glahe_auf_dem_dach_der_welt_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tschingta, Tschingta, Bummtara!"
+	file = "tschingta_tschingta_bummtara_herms_niel_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wann wirst Du wieder bei mir sein?"
+	file = "wannwirstduwiederbeimirsein.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wenn ein junger Mann kommt"
+	file = "wenn_ein_junger_mann_kommt.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Besuch am Abend"
+	file = "willi_kollo_besuch_am_abend.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wenn Die Soldaten Durch Die Stadt Marschieren"
+	file = "wenn_die_soldaten_durch_die_stadt_marschieren.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zigeuner, Du hast mein Herz gestohlen"
+	file = "zigeuner_du_hast_mein_herz_gestohlen.ogg"
+	volume = 1
+}
+
+# FRANCE
+
+music = {
+	name = "Boum"
+	file = "charles_trenet_boum.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Douce France"
+	file = "charles_trenet_douce_france_1947.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Je Chante"
+	file = "charles_trenet_je_chante.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La mer"
+	file = "charles_trenet_la_mer_1945.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Que Reste-T-il De Nos Amours"
+	file = "charles_trenet_que_reste_t_il_de_nos_amours.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vous etes jolie"
+	file = "charles_trenet_vous_etes_jolie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Derniere Bergere"
+	file = "django_reinhardt_jean_sablon_la_derniere_bergere_paris.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Elle Frequent ait la Rue Pigalle"
+	file = "ellefrequentaitlaruepigalle.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Il ne faut pas briser un rêve"
+	file = "eva_busch_il_ne_faut_pas_briser_un_reve.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Seul Alone"
+	file = "french_chanson_jean_sablon_seul_alone_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le Plus Joli Rêve"
+	file = "french_chanson_lucienne_boyer_le_plus_joli_reve.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lys Gauty - Une chanson damour"
+	file = "french_chanson_lys_gauty_une_chanson_damour_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J'attendrai by Jean Sablon"
+	file = "jattendrai_jean_sablon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J'attendrai by Rina Ketty"
+	file = "jattendrai_rina_ketty.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J'attendrai"
+	file = "jattendrai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Un baiser"
+	file = "jean_sablon_un_baiser.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Les prénoms effacés"
+	file = "jean_tranchant_les_prenoms_effaces_slow_fox_de.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Je Chante"
+	file = "jechante.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Conga Blicoti"
+	file = "la_conga_blicoti_josephine_bake.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La chanson de l'exposition"
+	file = "lachansondelexposition.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La madone aux fleurs"
+	file = "lamadoneauxfleurs.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le Premier Rendez-Vous"
+	file = "le_premier_rendez_vous_rose_avril.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Seule ce soir"
+	file = "leo_marjane_brassai_seule_ce_soir_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mon amant de Saint Jean"
+	file = "lucienne_delyle_mon_amant_de_saint_jean_1942.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bouquet De Paris"
+	file = "maurice_chevalier_bouquet_de_paris.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mon amant de la coloniale"
+	file = "monamantdelacoloniale.ogg"
+	volume = 1
+}
+
+music = {
+	name = "O Mia Bella Napoli! (O ma belle Naples!)"
+	file = "o_mia_bella_napoli_2tino_rossi_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "On N'a Pas Tous Les Jours Vingt Ans"
+	file = "onapastouslesjoursvingtans.ogg"
+	volume = 1
+}
+
+music = {
+	name = "On se fait Pouet! Pouet!"
+	file = "onsefaitpouet.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le premier rendez vous"
+	file = "paris_sous_loccupation_jacqueline_moreau_le_premier_rendez_vou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Parlami d'amore Mariù (Parle-moi de ton amour Marius)"
+	file = "parlami_damore_mariu_by_tino_rossi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "C'était écrit"
+	file = "ray_ventura_et_ses_collegiens_cetait_ecrit.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Reginella Campagnola"
+	file = "reginella_campagnola_3_tino_rossi_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chaque Soir Jattends Lamourjede Nacht"
+	file = "rose_avril_chaque_soir_jattends_lamourjede_nacht.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tes Mensonges"
+	file = "rose_avril_tes_mensonges_her_famous_tango_ca.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sous les ponts de Paris"
+	file = "sous_les_ponts_de_paris_lucienne_delyl.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sur Un Fil"
+	file = "surunfil.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen by Suzy Solidor"
+	file = "suzy_solidor_lily_marlene_1941_marlene_dietrich.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Swing à Paris"
+	file = "swing_in_paris_ray_ventura_menilmontan_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "L'heure du swing!"
+	file = "swingtime_26_laura_jean_sablon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tango de Paris"
+	file = "tango_de_paris_tino_rossi_voulez_vous_madame.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ave Maria"
+	file = "tino_rossi_ave_maria_schubert.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Besame Mucho"
+	file = "tino_rossi_besame_mucho_1945.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ecoutez les mandolines"
+	file = "tino_rossi_ecoutez_les_mandolines_1937.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Écris-moi"
+	file = "tino_rossi_ecris_moi_tango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Il pleut sur la route"
+	file = "tino_rossi_il_pleut_sur_la_route_tango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J'attendrai by Tino Rossi"
+	file = "tino_rossi_jattendrai_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La romance de Nadir"
+	file = "tino_rossi_la_romance_de_nadir_je_crois_entendre_encore.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le tango bleu"
+	file = "tino_rossi_le_tango_bleu_1945.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le temps des cerises"
+	file = "tino_rossi_le_temps_des_cerises_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Les Pêcheurs de perles"
+	file = "tino_rossi_les_pecheurs_de_perles.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Loin des guitares"
+	file = "tino_rossi_loin_des_guitares_tango_de_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Marinella"
+	file = "tino_rossi_marinella.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La chanson du gondolier"
+	file = "tino_rossi_mio_la_chanson_du_gondolier.ogg"
+	volume = 1
+}
+
+music = {
+	name = "O Corse Ile Damour"
+	file = "tino_rossi_o_corse_ile_damour.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Poème dans tes yeux"
+	file = "tino_rossi_poeme_in_your_eyes.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tant Qu'il Y Aura Des Étoiles"
+	file = "tino_rossi_tant_quil_y_aura_des_etoiles.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tchi-tchi"
+	file = "tino_rossi_tchi_tchi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Un Violon dans la Nuit by Tino Rossi"
+	file = "tino_rossi_un_violon_dans_la_nuit.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Vie en Rose"
+	file = "edith_piaf_la_vie_en_rose.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Un Violon dans la Nuit"
+	file = "unviolondanslanuit.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Belleville"
+	file = "django_reinhardt_belleville.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cou-cou"
+	file = "django_reinhardt_coucou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Thé pour deux"
+	file = "django_reinhardt_tea_for_two.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Si J'etais Blanche"
+	file = "josephine_baker_si_jetais_blanche.ogg"
+	volume = 1
+}
+
+
+# USA
+
+music = {
+	name = "A Handful of Stars"
+	file = "a_handful_of_stars.ogg"
+	volume = 1
+}
+
+music = {
+	name = "All the Things you Are"
+	file = "all_the_things_you_are.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Always in My Heart"
+	file = "always_in_my_heart.ogg"
+	volume = 1
+}
+
+music = {
+	name = "American Patrol"
+	file = "american_patrol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A Nightingale Sang In Berkeley Square"
+	file = "anightingalesanginberkeleysquare.ogg"
+	volume = 1
+}
+
+music = {
+	name = "At Last"
+	file = "atlast.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Begin the Beguine Artie Shaw"
+	file = "begin_the_beguine_artie_shaw_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I'll be Seeing You"
+	file = "billie_holiday_ill_be_seeing_you_1944.ogg"
+	volume = 1
+}
+
+music = {
+	name = "White Christmas"
+	file = "bing_crosby_white_christmas_1942_original_version.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Caravan"
+	file = "caravan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Careless"
+	file = "careless.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chattanooga Choo Choo"
+	file = "chattanooga_choo_choo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Danny Boy"
+	file = "danny_boy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dearly Beloved"
+	file = "dearly_beloved.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Diga Diga Doo"
+	file = "diga_diga_doo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Don't Tell Me That Story"
+	file = "dont_tell_me_that_story.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A Sentimental Journey"
+	file = "doris_day_a_sentimental_journey.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stormy Weather by Duke Ellington"
+	file = "ellington_stormy_weather.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Flamingo"
+	file = "flamingo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "In The Mood"
+	file = "glenn_miller_in_the_mood_usa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Happy Days Are Here Again"
+	file = "happydaysarehereagain.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I Ain't Got Nobody"
+	file = "i_aint_got_nobody.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I Cried for You"
+	file = "i_cried_for_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I Know Why"
+	file = "i_know_why.ogg"
+	volume = 1
+}
+
+music = {
+	name = "If I Had You"
+	file = "if_i_had_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "In a Sentimental Mood"
+	file = "in_a_sentimental_mood.ogg"
+	volume = 1
+}
+
+music = {
+	name = "It Don't Mean a Thing"
+	file = "it_dont_mean_a_thing.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marlene (English Version)"
+	file = "lili_marlene_english_version_marlene_dietrichmpg.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Little Brown Jug"
+	file = "little_brown_jug.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Lone Star Trail"
+	file = "lonestartrail.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maiden's Prayers"
+	file = "maidens_prayers.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Milk Cow Blues"
+	file = "milk_cow_blues.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Moonlight Mood"
+	file = "moonlight_mood.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Moonlight Serenade"
+	file = "moonlightserenade.ogg"
+	volume = 1
+}
+
+music = {
+	name = "My Prayer"
+	file = "my_prayer.ogg"
+	volume = 1
+}
+
+music = {
+	name = "My Reverie"
+	file = "my_reverie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pennsylvania 6-5000"
+	file = "pennsylvania.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Perfidia - Vocal"
+	file = "perfidia_vocal.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Perfidia"
+	file = "perfidia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Red Sails in the Sunset"
+	file = "red_sails_in_the_sunset.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Serenade in Blue"
+	file = "serenadeinblue.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Somewhere Over the Rainbow"
+	file = "somewhere_over_the_rainbow.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Song of The Bandit"
+	file = "song_of_the_bandit.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stairway to The Stars"
+	file = "stairway_to_the_stars.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Star Dust"
+	file = "star_dust.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Steel Guitar Rag"
+	file = "steel_guitar_rag.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stormy Weather by Leo Reisman"
+	file = "stormy_weather_vocal_reisman.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Take The A Train"
+	file = "take_the_a_train.ogg"
+	volume = 1
+}
+
+music = {
+	name = "That Old Black Magic"
+	file = "that_old_black_magic.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Boogie Woogie Bugle Boy"
+	file = "the_andrews_sisters_boogie_woogie_bugle_boy_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Nearness of You"
+	file = "thenearnessofyou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "This is The Army"
+	file = "thisisthearmy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Trust in Me"
+	file = "trustinme.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tuxedo Junction"
+	file = "tuxedo_junction.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stars Fell on Alabama"
+	file = "vera_lynn_stars_fell_on_alabama.ogg"
+	volume = 1
+}
+
+music = {
+	name = "When You Wish Upon a Star"
+	file = "whenyouwishuponastar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zing! Went the Strings of My Heart"
+	file = "zing_went_the_strings_of_my_heart.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Personality"
+	file = "johnny_mercer_personality.ogg"
+	volume = 1
+}
+
+music = {
+	name = "G.I Jive"
+	file = "johnny_mercer_gi_jive.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Der Fuehers Face"
+	file = "spike_jones_der_fuehers_face.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jumpin' Jive by Cab Calloway"
+	file = "cab_calloway_jumpin_jive_1943.ogg"
+	volume = 1
+}
+
+music = {
+	name = "This Train"
+	file = "sister_rosetta_this_train.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Passwonky"
+	file = "fats_waller_passwonky.ogg"
+	volume = 1
+}
+
+music = {
+	name = "There's a Rainbow Around my Shoulder"
+	file = "al_jolson_theres_a_rainbow_around_my_shoulder.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I Have to Have You"
+	file = "helen_kane_i_have_to_have_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ain't Misbehavin'"
+	file = "louis_armstrong_aint_misbehaving.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bluer than Blue"
+	file = "hardin_armstrong_bluer_than_blue.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oriental Swing"
+	file = "hardin_armstrong_oriental_swing.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I'm in The Market for You"
+	file = "louis_armstrong_im_in_the_market_for_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "You Run Your Mouth and I Run My Buisness"
+	file = "yourrunyourmouthandirunmybuisness.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I'm a Ding Dong Daddy"
+	file = "louis_armstrong_im_a_ding_dong_daddy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Strange Fruit"
+	file = "billie_holiday_strange_fruit.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Crazy He Calls Me"
+	file = "billie_holiday_crazy_he_calls_me.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Easy Living"
+	file = "billie_holiday_easy_living.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ac-Cent-Tchu-Ate The Positive"
+	file = "bing_crosby_ac-cent-tchu-ate_the_positive.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pistol Packin' Mama"
+	file = "bing_crosby_andrew_sisters_pistol_packin_mama.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dear Hearts and Gentle People (Bob Version)"
+	file = "bob_crosby_dear_hearts_and_gentle_people.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Happy Times"
+	file = "bob_crosby_happy_times.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Way Back Home"
+	file = "bob_crosby_way_back_home.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anything Goes"
+	file = "cole_porter_anything_goes.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Undecided"
+	file = "ella_fitzgerald_undecided.ogg"
+	volume = 1
+}
+
+music = {
+	name = "One More Tomorrow"
+	file = "frankie_carle_one_more_tomorrow.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Keep a Knockin'"
+	file = "louis_jordan_keep_a_knockin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A Wonderful Guy"
+	file = "tex_beneke_a_wonderful_guy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I Don't Wanna Set The World On Fire"
+	file = "the_ink_spots_i_dont_wanna_set_the_world_on_fire.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maybe"
+	file = "the_ink_spots_maybe.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Into Each Life Some Rain Must Fall"
+	file = "ella_fitzgerald_and_the_inkspots_into_each_life_some_rain_must_fall.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dear Hearts and Gentle People (Bing Version)"
+	file = "bing_crosby_dear_hearts_and_gentle_people.ogg"
+	volume = 1
+}
+
+
+# JAPAN
+
+music = {
+	name = "Kimi ga yo"
+	file = "kimigayo_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ano Onekoete"
+	file = "ano_onekoete.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Aramaki"
+	file = "aramaki.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Battō-tai māchi"
+	file = "battotai_march.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nagasaki no chō"
+	file = "butterfly_of_nagasaki_by_watanabe_hamako_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chaina Tango"
+	file = "chaina_tango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Doki-no-Sakura"
+	file = "doki_no_sakura.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ejiputo"
+	file = "ejiputo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chichi yo, anata wa tsuyokatta"
+	file = "father_you_were_strong.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fīrudo toge"
+	file = "fieldthorns.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Boufura hanamizuki gin-gun"
+	file = "getsugetsukasuimokugingun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kamome kanashi ya"
+	file = "kamomekanashiya.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kawaī sū-chan"
+	file = "kawaii_suu_chan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kigen ni saki roku hyaku-nen"
+	file = "kigen_nisen_roppyaku_nen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Koiwa umibe de"
+	file = "koiwa_umibe_de_late.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kōgun Banzai"
+	file = "kougun_banzai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rirī marurēn"
+	file = "lili_marleen_lyrics_tanaka_rie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Manshū musume"
+	file = "manshu_musume.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mei Hua San Nong"
+	file = "mei_hua_san_nong.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sazanburaido"
+	file = "meikotakamine.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nippon Rikugun"
+	file = "nippon_rikugun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ā kurenai no chi wa moyuru"
+	file = "oh_red_blood_is_burning.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Otomejuku"
+	file = "otomejuku.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Roei no Uta"
+	file = "roei_no_uta.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sendo Kawai Ya"
+	file = "sendokawaiya.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Senjo"
+	file = "senjo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shina no yoru"
+	file = "shina_no_yoru.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shouri no Hi made"
+	file = "shouri_no_hi_made.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shussei heishi o okuru uta"
+	file = "shussei_heishi_o_okuru_uta.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hageshī washi no uta"
+	file = "song_of_the_fierce_eagles.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Soshū yakyoku"
+	file = "soshu_yakyoku.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sutā"
+	file = "the_star.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Minami ni"
+	file = "to_the_south_by_junko_mihara_c1942.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tokkōtaibushi"
+	file = "tokkotaibushi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yuki no Shingun"
+	file = "yuki_no_shingun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zoku Aibakoh"
+	file = "zokuaibakoh.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zundoko Bushi"
+	file = "zundoko_bushi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kamome"
+	file = "seifou_yoshida_kamome.ogg"
+	volume = 1
+}
+
+# ITALY
+
+music = {
+	name = "Adesso viene il bello"
+	file = "adesso_viene_il_bello.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Solamente Tu"
+	file = "alfredo_clerici_tu_solamente_tu_you_only_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ba Ba Baciami Piccina"
+	file = "bababaciamipiccina.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cantate dei Legionari"
+	file = "cantate_dei_legionari.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Amapola"
+	file = "carlo_buti_amapola_bruno_lacalle.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Amore, Amore"
+	file = "carlo_buti_amore_amore.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chitarra romana"
+	file = "carlo_buti_chitarra_romana.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dove Sta Zaza"
+	file = "carlo_buti_dove_sta_zaza.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Il primo amore"
+	file = "carlo_buti_il_primo_amore.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Paloma"
+	file = "carlo_buti_la_paloma.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Piccinina"
+	file = "carlo_buti_la_piccinina.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen by Carlo Buti"
+	file = "carlo_buti_lili_marleen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Non ti scordar di me"
+	file = "carlo_buti_non_ti_scordar_di_me_alta_qualita_remastered.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Reginella Campagnola - Canto Popolare"
+	file = "carlo_buti_reginella_campagnola_canto_popolare.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Signorinella pallida"
+	file = "carlo_buti_signorinella_pallida_1931.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tornerai"
+	file = "carlo_buti_tornerai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Verde Luna"
+	file = "carlo_buti_verde_luna.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vivere"
+	file = "carlo_buti_vivere.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Senti l'Eco"
+	file = "dino_olivieri_orchestra_crivel_senti_leco_1930s.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Divina Patria"
+	file = "divina_patria.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dopo La Tempesta"
+	file = "dopolatempesta.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Duce a noi"
+	file = "duce_a_noi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Faccetta Nera"
+	file = "faccetta_nera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fiorin Fiorello"
+	file = "fiorin_fiorello_carlo_buti.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Firenze"
+	file = "firenze.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Giovinezza"
+	file = "giovinezza.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Il Canto degli Italiani"
+	file = "il_canto_degli_italiani.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Inno a Roma"
+	file = "inno_a_roma.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen (Versione italiana)"
+	file = "lili_marlene_it.ogg"
+	volume = 1
+}
+
+music = {
+	name = "L'Uccellino della Radio"
+	file = "luccellinodellaradio.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Luna malinconica"
+	file = "lunamalinconica.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ma dove vai bellezza in bicicletta"
+	file = "ma_dove_vai_bellezza_in_bicicletta_silvana_pampanini.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Male Gambe"
+	file = "malegambe.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Voglio la mamma"
+	file = "mammavoglio.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Me ne frego"
+	file = "me_ne_frego.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mediterraneo"
+	file = "mediterraneo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mille lire al mese"
+	file = "millelirealmese.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Piccolo Chalet"
+	file = "piccolochalet.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Moj Milane, jabuko sa grane"
+	file = "rua_deni_moj_milane_jabuko_sa_grane.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ti saluto (Vado in Abissinia)"
+	file = "ti_saluto_vado_in_abissinia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tornerai (J'attendrai) by Visconti"
+	file = "tornerai_visconti.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vincere vincere vincere"
+	file = "vincere_vincere_vincere.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zonzo"
+	file = "zonzo.ogg"
+	volume = 1
+}
+
+# COMMONWEALTH
+
+music = {
+	name = "God Save the King"
+	file = "god_save_the_king_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rule Britannia - 1922"
+	file = "apex_military_band_rule_britannia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Me"
+	file = "ambrose_me.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anniversary Waltz"
+	file = "anniversary_waltz_vera_lynn.ogg"
+	volume = 1
+}
+
+music = {
+	name = "As Time Goes By"
+	file = "as_time_goes_by_vera_lynn.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Berlin or Bust"
+	file = "berlin_or_bust.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Black Coffee"
+	file = "black_coffee.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bless em All"
+	file = "bless_em_all_vera_lynn.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Boulevard of Broken Dreams"
+	file = "boulevard_of_broken_dreams.ogg"
+	volume = 1
+}
+
+music = {
+	name = "By The Waterfall"
+	file = "british_dance_1933.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bye Bye Blues"
+	file = "bye_bye_blues.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cleaning My Rifle and Thinking of You"
+	file = "cleaning_my_rifle_and_thinking_of_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Coming In on a Wing a Prayer"
+	file = "coming_in_on_a_wing_a_prayer.ogg"
+	volume = 1
+}
+
+music = {
+	name = "For All We Know"
+	file = "for_all_we_know_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A Lady from Lancashire"
+	file = "george_formby_a_lady_from_lancashire.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Goodnight, Lovely Little Lady"
+	file = "goodnight_lovely_little_lady_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Happy Days are Here Again"
+	file = "happy_days_are_here_again.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hot Time in The Town of Berlin"
+	file = "hot_time_in_the_town_of_berlin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I Fell in Love with an Airman"
+	file = "i_fell_in_love_with_an_airman.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I'll Be Yours"
+	file = "ill_be_yours.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I'm Just Wearing My Heart Out for You"
+	file = "im_just_wearing_my_heart_out_for_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I'm Like a Sailor"
+	file = "im_like_a_sailor.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Imagine Me in The Maginot Line"
+	file = "imagine_me_in_the_maginot_line.ogg"
+	volume = 1
+}
+
+music = {
+	name = "In The Mood (Vocal)"
+	file = "in_the_mood_vocal.ogg"
+	volume = 1
+}
+
+music = {
+	name = "It's a Long Way to Tipperary"
+	file = "its_a_long_way_to_tipperary.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Lambeth Walk"
+	file = "lambeth_walk_eddie_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen by Lale Andersen"
+	file = "lili_marleen_eng_lale.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lucky Me-Lovable You"
+	file = "lucky_me_lovable_you_the_rhythm_maniacs_decca.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Old Ship Of Mine"
+	file = "old_ship_o_mine_croun141_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "One Hour with You"
+	file = "one_hour_with_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Praise The Lord & Pass The Ammunition"
+	file = "praise_the_lord_pass_the_ammunition.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stormy Weather by Freddy Martin"
+	file = "stormy_weather_1933.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stormy Weather by Bert Ambrose"
+	file = "stormy_weather_by_ambrose.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Bombardier's Song"
+	file = "the_bombardiers_song.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Girl Who Loves a Soldier"
+	file = "the_girl_who_loves_a_soldier.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The King is still in London"
+	file = "the_king_is_still_in_london.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Show Of Shows"
+	file = "the_rhythm_maniacs_the_show_of_shows_selection_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The World Famous Doll Medley"
+	file = "the_world_famous_doll_medley_1930s.ogg"
+	volume = 1
+}
+
+music = {
+	name = "There'll Always Be An England"
+	file = "there_will_always_be_an_england.ogg"
+	volume = 1
+}
+
+music = {
+	name = "There's A Ring Around The Moon"
+	file = "theres_a_ring_around_the_moon_1933.ogg"
+	volume = 1
+}
+
+music = {
+	name = "There's No Harm in Hoping"
+	file = "theres_no_harm_in_hoping_debroy_1932.ogg"
+	volume = 1
+}
+
+music = {
+	name = "They Can't Black Out The Moon"
+	file = "they_cant_black_out_the_moon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "They're Either Too Young or Too Old"
+	file = "they_either_too_young_or_too_old.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Too Many Tears"
+	file = "too_many_tears.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Two Sleepy People"
+	file = "two_sleepy_people.ogg"
+	volume = 1
+}
+
+music = {
+	name = "We're Gonna Hang Out Our Washing On The Siegfried Line"
+	file = "washing_on_the_siegfried_line.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A Nightingale Sang In Berkeley Square"
+	file = "vera_lynn_a_nightingale_sang_in_berkeley_square_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Land of Hope & Glory"
+	file = "vera_lynn_land_of_hope_glory.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marlene by Vera Lynn"
+	file = "vera_lynn_lili_marlene.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Now is The Hour"
+	file = "vera_lynn_now_is_the_hour.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sunrise Sunset"
+	file = "vera_lynn_sunrise_sunset.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The White Cliffs of Dover"
+	file = "vera_lynn_the_white_cliffs_of_dover.ogg"
+	volume = 1
+}
+
+music = {
+	name = "When I Grow too Old to Dream"
+	file = "vera_lynn_when_i_grow_too_old_to_dream.ogg"
+	volume = 1
+}
+
+music = {
+	name = "When The Lights Go On Again"
+	file = "vera_lynn_when_the_lights_go_on_again.ogg"
+	volume = 1
+}
+
+music = {
+	name = "We'll Meet Again"
+	file = "well_meet_again_vera_lynn.ogg"
+	volume = 1
+}
+
+music = {
+	name = "When They Sound the Last 'All Clear'"
+	file = "when_they_sound_the_last_all_clear_vera_lynn_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wishing (Will Make It So)"
+	file = "wishing_will_make_it_so_vera_lynn_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "With All My Heart"
+	file = "with_all_my_heart_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "With You Here And Me Here"
+	file = "with_you_here_and_me_here.ogg"
+	volume = 1
+}
+
+music = {
+	name = "You'll Never Know"
+	file = "youll_never_know_vera_lynn_1943.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Heartaches"
+	file = "al_bowlly_heartaches.ogg"
+	volume = 1
+}
+
+# YUGOSLAVIA
+
+music = {
+	name = "Čudo jada od Mostara grada"
+	file = "balkan_tamburitza_orchestra_udo_jada_od_mostara_grada.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Srdo moja, ne srdi se na me"
+	file = "boa_stojanovi_srdo_moja_ne_srdi_se_na_me.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mislio sam da je život"
+	file = "braa_kapugi_mislio_sam_da_je_ivot_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pod bregom se jela razgranala"
+	file = "braa_kapugi_pod_bregom_se_jela_razgranala_1942.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rujna zora"
+	file = "cicvarii_rujna_zora_1911.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Knjigu piše kralj Srbije"
+	file = "duan_jovanovi_knjigu_pie_kralj_srbije_1926.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Marširala Kralja Petra Garda"
+	file = "duan_jovanovi_marirala_kralja_petra_garda_1925.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kad sam bio mlađan lovac ja"
+	file = "edo_ljubi_kad_sam_bio_mladan_lovac_ja_a_lesjak.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kradem ti se u večeri"
+	file = "edo_ljubi_kradem_ti_se_u_veeri_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mezimica"
+	file = "edo_ljubi_mezimica_kunem_ti_se_draga_bogom_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nekad cvale bele ruže"
+	file = "edo_ljubi_nekad_cvale_bele_rue.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Neven Kolo"
+	file = "edo_ljubi_neven_kolo_m_nei.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Od kako sam sevdah svezo"
+	file = "edo_ljubi_od_kako_sam_sevdah_svezo_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oj kaduno"
+	file = "edo_ljubi_oj_kaduno_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Opijo sam se, e pa šta"
+	file = "edo_ljubi_opijo_sam_se_e_pa_ta_m_nei.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Slomljena Nada"
+	file = "edo_ljubi_slomljena_nada.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Spremte se spremte Četnici"
+	file = "edo_ljubi_spremte_se_spremte_etnici_1942.ogg"
+	volume = 1
+}
+
+music = {
+	name = "U mom selu"
+	file = "edo_ljubi_u_mom_selu_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "U Stambulu"
+	file = "edo_ljubi_u_stambulu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vetar ružu poljuljkuje"
+	file = "edo_ljubi_vetar_ruu_poljuljkuje_1942.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zlatna grivna"
+	file = "edo_ljubi_zlatna_grivna_stanislav_biniki.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Crnogorac, Crnogorki"
+	file = "josip_batisti_crnogorac_crnogorki_i_zajc.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Konja vodim, pješke hodim"
+	file = "konja_vodim_pjeke_hodim.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Petlite Pejat Den Mi Se Deni"
+	file = "lene_markovska_petlite_pejat_den_mi_se_deni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Srpska Lili Marlin"
+	file = "lili_marleen_serbian.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Moj dilbere"
+	file = "mitar_bulatovich_moj_dilbere_r_popovi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oj Dunave"
+	file = "raa_radenkovi_oj_dunave.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cojle Manojle"
+	file = "sofka_nikoli_cojle_manojle_1927.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hoće čiča, hoće rano"
+	file = "sofka_nikoli_hoe_ia_hoe_rano_1927.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Po Gradini Meseina Sija Meka"
+	file = "stanoje_jankovi_po_gradini_meseina_sija_meka_isidor_baji.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bački Svatovac"
+	file = "stevan_bai_trnda_baki_svatovac.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tamo Daleko"
+	file = "tamo_daleko_1917.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kako umire Dalmatinac"
+	file = "vlado_konstantinovi_kako_umire_dalmatinac_1930.ogg"
+	volume = 1
+}
+
+# CZECHOSLOVAKIA
+
+music = {
+	name = "Šaty dělaj člověka"
+	file = "jan_werich_aty_dlaj_lovka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Babička Mary"
+	file = "jan_werich_babika_mary.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bleška veška"
+	file = "jan_werich_bleka_veka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Civilizace"
+	file = "jan_werich_civilizace.ogg"
+	volume = 1
+}
+
+music = {
+	name = "David a Goliáš"
+	file = "jan_werich_david_a_golias.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Ezop a brabenec"
+	file = "jan_werich_ezop_a_brabenec.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hodné štěně"
+	file = "jan_werich_hodne_tn.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kat a blázen"
+	file = "jan_werich_kat_a_blazen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nebe na zemi"
+	file = "jan_werich_nebe_na_zemi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Píseň strašlivá o Golemovi"
+	file = "jan_werich_pise_straliva_o_golemovi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Potopa"
+	file = "jan_werich_potopa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Stonožka"
+	file = "jan_werich_stonoka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ten umí to a ten zas tohle"
+	file = "jan_werich_ten_umi_to_a_ten_zas_tohle.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tmavomodrý svět"
+	file = "jan_werich_tmavomodry_svt.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tři strážníci"
+	file = "jaroslav_jeek_ti_stranici.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hostina Chudych"
+	file = "jaroslav_jezek_hostina_chudych_1937.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hej, pane králi"
+	file = "jeek_voskovec_werich_hej_pane_krali.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Život je jen náhoda"
+	file = "jeek_voskovec_werich_ivot_je_jen_nahoda.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lily Marlén Slovenska"
+	file = "lili_marlene_magda_schwingerova.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shiner Song Polka"
+	file = "shiner_song_polka_adolph_hofner_sung_in_bohemianczech.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tmavě modrý svět"
+	file = "svita_jaroslav_jeek_dark_blue_world.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Holduj tanci, pohybu"
+	file = "voskovec_werich_jezek_02_holduj_tanci_pohybu.ogg"
+	volume = 1
+}
+
+# CHINA
+
+music = {
+	name = "Shengkāi de huāduo manyue"
+	file = "blooming_flowers_full_moon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Niukou he hudiejie"
+	file = "buttons_and_bows.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hong shuilian"
+	file = "chang_loo_akai_suiren.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zhōngguo lili ma lin"
+	file = "chinese_lili_marleen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zai Dang Nian"
+	file = "hen_bu_zhongqing_zai_dangnian_wuyingyin.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Jing Zhong Ren"
+	file = "jing_zhong_ren_yao_li.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yingtao shu"
+	file = "julie_yeh_feng_cherry_trees.ogg"
+	volume = 1
+}
+
+music = {
+	name = "San nian ge"
+	file = "san_nien_three_years_sung.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shangri-La"
+	file = "shangri_la_ouyoung_fei_ying.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tianya genu"
+	file = "tianya_genu_zhouxuan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Xiang Dang Nian"
+	file = "xiang_dangnian_zhang_lu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Xinxin"
+	file = "xinxinxiangyin_zhang_lu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Meigui meigui wo ai ni"
+	file = "yao_lee_rose_rose_i_love_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ye Shang Hai"
+	file = "ye_shang_hai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jiāohuan"
+	file = "zhou_xuan_1_jiaohuan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Xinyuan"
+	file = "zhou_xuan_2_xinyuan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Qiang Wei Chu Chu Kai"
+	file = "zhouxuan_qiangwei_chuchu_kai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Siji zhi ge"
+	file = "zhou_xuan_song_of_four_seasons.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chuntian hai mei lai"
+	file = "liang_ping_spring_is_not_coming.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Guangdong Yinyue"
+	file = "guangdong_yinyue.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chuntian de zaochen zai shanshang"
+	file = "ya_yue_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Buxiang yao ni"
+	file = "yao_lee_bu_yao_ni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "You sixiang de ren"
+	file = "qu_yi_wang_silang.ogg"
+	volume = 1
+}
+
+# MEXICO
+
+music = {
+	name = "Perfidia"
+	file = "elvira_rios_perfidia_bolero.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Malagueña Salerosa"
+	file = "los_machucambos_julita_cortes_malaguena_salerosa_1948.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Cucaracha"
+	file = "lud_gluskin_la_cucaracha_chiquito_vocal_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Amor con Amor se Paga"
+	file = "lydia_mendoza_amor_con_amor_se_paga.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Boda Negra"
+	file = "lydia_mendoza_la_boda_negra.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mal Hombre"
+	file = "lydia_mendoza_mal_hombre_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ojitos Verdes"
+	file = "lydia_mendoza_ojitos_verdes.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pajarito Herido"
+	file = "lydia_mendoza_pajarito_herido.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Eres La Mas Consentida"
+	file = "mariachi_vargas_de_tecalitlan_eres_la_mas_consentida.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Violinera"
+	file = "mariachi_vargas_de_tecalitlan_la_violinera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Serenata Ranchera"
+	file = "mariachi_vargas_de_tecalitlan_serenata_ranchera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cielito Lindo"
+	file = "pedro_infante_cielito_lindo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cien Años"
+	file = "pedro_infante_cien_anos.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Deja Que Salga La Luna"
+	file = "pedro_infante_deja_que_salga_la_luna.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Muy Despacito"
+	file = "pedro_infante_muy_despacito.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cuando Escuches Este Vals"
+	file = "trio_gonzalez_cuando_escuches_este_vals.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yo Me Muero Donde Quiera"
+	file = "lucha_reyes_yo_me_muero_donde_quiera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Destino Cruel"
+	file = "lydia_mendoza_destino_cruel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hoja Seca"
+	file = "salvador_garcia_hoja_seca.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maria Candelaria"
+	file = "hernan_molina_maria_candelaria.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Contigo en La Distancia"
+	file = "andy_russell_contigo_en_la_distancia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vagabundo"
+	file = "fernando_fernandez_vagabundo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Flores y Espinas"
+	file = "los_ruisenores_del_norte_flores_y_espinas.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Corrido del Norte"
+	file = "hermanas_padilla_el_corrido_del_norte.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hilos de Plata"
+	file = "hermanas_aguila_hilos_de_plata.ogg"
+	volume = 1
+}
+
+# ROMANIA
+
+music = {
+	name = "Ciocarlia"
+	file = "ciocarlia_george_enescu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Danse Montagnarde"
+	file = "danse_montagnarde_maria_tanase.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Doina din Maramureş"
+	file = "doina_din_maramures_maria_tanase.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jandarmul"
+	file = "jandarmul_maria_tanase.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Românca Lili Marleen"
+	file = "lili_marleen_romanian.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mai Spune-Mi Inca-Odata"
+	file = "mai_spune_mi_inca_odata_jean_moscopol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Minciuna"
+	file = "minciuna_cristian_vasile.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pana cand nu te iubeam"
+	file = "pana_cand_nu_te_iubeam_maria_tanase.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pe Marea Neagră"
+	file = "tango_from_romania_georges_boulanger_on_the_black_sea_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vrei Sa Ne-Ntalnim Sambata Seara"
+	file = "vrei_sa_ne_ntalnim_sambata_seara_jean_moscopol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zaraza"
+	file = "zaraza_cristian_vasile.ogg"
+	volume = 1
+}
+
+# POLAND
+
+music = {
+	name = "Blondyneczka"
+	file = "blondyneczka_polish_tango_adam_aston_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ekstaza"
+	file = "ekstaza_tango_mieczyslaw_fogg_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fordanserka"
+	file = "fordanserka_polish_tango_adam_aston_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Gramofonomanka"
+	file = "gramofonomanka_mieczyslaw_fogg.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ja mam czas, ja poczekam"
+	file = "ja_mam_czas_ja_poczekam_mieczyslaw_fogg_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jadzia"
+	file = "jadzia_1936_adam_aston.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Polska Lili Marleen"
+	file = "lili_marleen_polski.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Morfina"
+	file = "morfina_1936_old_polish_tango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Może kiedyś innym razem"
+	file = "moze_kiedys_innym_razem_adam_wysocki.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nie masz jak u nas w Krakowie"
+	file = "nie_masz_jak_u_nas_w_krakowie_foxtrot_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ostatnia niedziela"
+	file = "ostatnia_niedziela.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Poleczka spirytusowa"
+	file = "poleczka_spirytusowa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Porucznik jazdy"
+	file = "porucznik_jazdy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sapery"
+	file = "sapery.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tylko we Lwowie"
+	file = "tylko_we_lwowie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Warszawo, Moja Warszawo"
+	file = "warszawo_moja_warszawo_1932_adam_aston.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wspomnienia"
+	file = "wspomnienia_old_polish_tango_adam_wysocki_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Żołnierskie"
+	file = "zolnierskie_tango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Opium"
+	file = "tadeusz_faliszewski_and_orchestra_opium.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Złociste chryzantemy"
+	file = "janusz_poplawski_zlociste_chryzantemy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Piękne Rumunki"
+	file = "janusz_poplawski_piekne_rumunki.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Orchidea"
+	file = "wiera_gran_orchidea.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ty nie jesteś winna"
+	file = "arthur_gold_ty_nie_jestes_winna.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Smutne"
+	file = "chor_dana_smutne_tango_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ach zostań"
+	file = "adam_aston_ach_zostan_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Abduł bey"
+	file = "fajga_jofe_abdul_bey_1932.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jesienna Piosenka"
+	file = "hanka_ordonowna_jesienna_piosenka.ogg"
+	volume = 1
+}
+
+# HUNGARY
+
+music = {
+	name = "Balalajka sír az éjben"
+	file = "balalajka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Beszéljünk másról"
+	file = "beszeljunk_masrol_kapitany_anni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dóczy"
+	file = "doczy_hungarian_gipsy_band_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Drunt' in der Lobau"
+	file = "drunt_in_der_lobau_lajos_kiss_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Eredj, ha tudsz"
+	file = "eredj_ha_tudsz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Szomorú vasárnap"
+	file = "gloomy_sunday.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Es Baka Vagyok én"
+	file = "hungarian_foxtrot.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hívjon fel éjszaka"
+	file = "hungarian_jazz_singer_kapitany_anni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Komm Zigany"
+	file = "komm_zigany_lajos_kiss_1931.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lehet, hogy túlságosan szerettelek"
+	file = "lehet_hogy_tulsagosan_szerettelek_kapitany_anni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Magyar Lili Marleen"
+	file = "lili_marleen_magyar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Muszka földről"
+	file = "muszka_foldrol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ne legyen tavasz, ne legyen május"
+	file = "ne_legyen_tavasz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nem zavarom tovább az életedet"
+	file = "nem_zavarom_tovabb_az_eletedet_kapitany_anni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sivár Buckatetőn"
+	file = "sivar_buckateton_ungarischer_czardas_lajos_kiss_1930.ogg"
+	volume = 1
+}
+
+# NETHERLANDS
+
+music = {
+	name = "Dat Moet je Bekijken Piet"
+	file = "albert_de_booy_dat_moet_je_bekijken_piet.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Korenbloemblauw"
+	file = "albert_de_booy_korenbloemblauw_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ojuffrouw Greetjewmv"
+	file = "albert_de_booy_ojuffrouw_greetjewmv.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Als je voor een dubbeltje geboren bent..."
+	file = "als_je_vooreen_dubbeltje_geboren_bent_louis_davids.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Als Het Orgel Speelt"
+	file = "als_het_orgel_speelt_albert_de_booy_1934.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Daar bij die molen"
+	file = "daar_bij_die_molen_willy_derby.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Diep In Mijn Hart"
+	file = "diep_in_mijn_hart.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Volendam Daar Staat een oude Molen"
+	file = "duo_hofman_in_volendam_daar_staat_een_oude_molen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Heb je het Fordje al gezien"
+	file = "heb_je_het_fordje_al_gezien.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Heeft u een Sigarenbandje"
+	file = "heeft_u_een_sigarenbandje.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kleine herdersjongen"
+	file = "kleine_herdersjongen_louis_noiret.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nederlandse Lili Marleen"
+	file = "lili_marleen_dutch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ik kan niet dansen, ik heb mieren in mijn broek"
+	file = "louis_de_vries_1935.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Makkitania"
+	file = "makkitania_louis_noiret_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nu vandaag de zorgen op zij"
+	file = "nu_vandaag_de_zorgen_op_zij_1929.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oh! jij lief ding"
+	file = "oh_you_sweet_thing_louis_de_vries.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rassenhaat"
+	file = "rassenhaat_george_hofmann_1924.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sarie Marijs"
+	file = "sarie_marijs_albert_de_booy_1933.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lied van de Watergeus"
+	file = "watergeus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wie is Loesje?"
+	file = "wie_is_loesje_ramblers.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zuiderzee Ballade"
+	file = "zuiderzee_ballade_gezongen_door_louis.ogg"
+	volume = 1
+}
+
+# CANADA
+
+music = {
+	name = "Always"
+	file = "always_guy_lombardo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bei Mir Bist Du Schoen"
+	file = "bei_mir_bist_du_schoen_guy_lombardo_1938.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Blue Orchids"
+	file = "blue_orchids_glenn_miller_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dans ce temps là"
+	file = "dans_ce_temps.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J'en arrache"
+	file = "jen_arrache.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Humoresque"
+	file = "humoresque_guy_lombardo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Its A Hundred To One"
+	file = "its_a_hundred_to_one.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Merry-go-round Waltz"
+	file = "merry_go_round_waltz_guy_lombardo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rainbow on the River"
+	file = "rainbow_on_the_river_bobby_breen_1936.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Confessin' that I love you"
+	file = "that_i_love_you_rudy_vallee_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "That Old Feeling"
+	file = "that_old_feeling_guy_lombardo_1937.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Cannonball"
+	file = "the_cannonball_guy_lombardo_1928.ogg"
+	volume = 1
+}
+
+# NEW ZEALAND
+
+music = {
+	name = "Pō Atarau (Now Is the Hour)"
+	file = "a_song_of_farewell_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Blue Smoke"
+	file = "blue_smoke_by_pixie_williams.ogg"
+	volume = 1
+}
+
+music = {
+	name = "E Pari Rā (The Warrior's Departure)"
+	file = "e_pare_ra_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Karu Karu (A Fishing Shanty)"
+	file = "karu_karu_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maori by The Jungle Band"
+	file = "maori_by_the_jungle_band_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maori by Duke Ellington"
+	file = "maori_duke_ellington.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pō Atarau (Now Is the Hour) by Ana Hato & Deane Waretini"
+	file = "po_atarau_1927.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pokarekare (Maori Love Ditty)"
+	file = "pokarekare_1929.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Te Ariki (Abide With Me)"
+	file = "te_ariki_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Karo (Poi Song)"
+	file = "te_mauri_meihana_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Titi-Tōrea"
+	file = "titi_torea_1930.ogg"
+	volume = 1
+}
+
+# AUSTRALIA
+
+music = {
+	name = "Aussie Is Proud Of You"
+	file = "aussie_is_proud_of_you_kingsford_smith.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dreaming With Tears In My Eyes"
+	file = "dreaming_with_tears_in_my_eyes_1933.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dreamy Lullaby Yodel"
+	file = "dreamy_lullaby_yodel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Echoing Hils Yodel Back To Me"
+	file = "echoing_hills_yodel_back_to_me_wilf_carter_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lullaby Yodel - Wilf Carter"
+	file = "lovers_lullaby_yodel_wilf_carter.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oh, Sydney, I Love You"
+	file = "oh_sydney_i_love_you.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Song of Australia"
+	file = "song_of_australia_peter_dawson_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Strawberry Roan"
+	file = "strawberry_roan_wilf_carter.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Waltzing Matilda"
+	file = "waltzing_matilda_1945.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yes Sir That's my Baby"
+	file = "yes_sir_thats_my_baby_1925.ogg"
+	volume = 1
+}
+# INDIA
+
+music = {
+	name = "Jawan Hai Mohabbat Haseen Hai Zamana"
+	file = "noor_jehan_jawan_hai_mohabbat_haseen_hai_zamana.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chupcup Khade Ho Zaroor Koi Baat Hai"
+	file = "chup_chup_kade_ho_lata_1949.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Deth Daans"
+	file = "death_dance_mahal.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jhoom Jhoom Ke Nacho"
+	file = "jhoom_jhoom_ke_nacho.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kya Mil Gaya Bhagwan"
+	file = "kya_mil_gaya_bhagwan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lata Mangeshkar and Mukesh"
+	file = "lata_mangeshkar_mukesh.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Main Kyaa Jaanuun Kyaa"
+	file = "main_kya_janu_kya_jadu_hai_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Naushad"
+	file = "naushad.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Piya Milan Ko Jana"
+	file = "piya_milan_ko_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Shahjehan"
+	file = "shahjehan_1946.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tu Mera Chand Mein Tere Chandini"
+	file = "suraiya_shyam_tu_mera_chand_mein_tere_chandini.ogg"
+	volume = 1
+}
+
+# SOUTH AFRICA
+
+music = {
+	name = "Dit is die Plek vir my Jo'burg"
+	file = "dit_is_die_plek_vir_my_joburg_1930s.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Erika (Afrikaans)"
+	file = "erika_afrikaans.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sohlangana"
+	file = "solomon_linda_sohlangana.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jive Marabi, Jive Marabi"
+	file = "jive_marabi_jive_marabi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mbube"
+	file = "mbube.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sarie Marais by Josef Marais"
+	file = "sarie_marais_by_josef_marais_1939.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sarie Marais"
+	file = "sarie_marais.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Prisoner's Song"
+	file = "the_prisoners_song_1930.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Zulu Warrior"
+	file = "the_zulu_warrior_by_josef_marais_1946.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wiwi Singomlil' Ovhuthayo"
+	file = "wiwi_singomlil_ovhuthayo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sangena Mama"
+	file = "solomon_linda_sangena_mama.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ngqo Ngqongo Vula"
+	file = "solomon_linda_ngqo_ngqongo_vula.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hambile"
+	file = "solomon_linda_ngi_hambile.ogg"
+	volume = 1
+}
+
+# DENMARK
+
+music = {
+	name = "De 24 Røvere"
+	file = "de_24_rovere.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Den var ikke ret stor, men den var der"
+	file = "den_var_ikke_ret_stor_men_den_var_der.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Det var paa Frederiksberg og andre Steder"
+	file = "det_var_paa_frederiksberg_og_andre_steder.ogg"
+	volume = 1
+}
+
+music = {
+	name = "En Dør på klem"
+	file = "en_dor_pa_klem.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Glemmer du"
+	file = "glemmer_du.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I dit korte liv"
+	file = "i_dit_korte_liv.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Léhar-Potpourri"
+	file = "lehar_potpourri.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen (Dansk Version)"
+	file = "lili_marleen_dansk.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Med fuld musik"
+	file = "med_fuld_musik.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Så slår to hjerter sødt i samme takt"
+	file = "sa_slar_to_hjerter_sodt_i_samme_takt.ogg"
+	volume = 1
+}
+
+# NORWAY
+
+music = {
+	name = "Bel ami, foxtrot"
+	file = "bel_ami_foxtrot.ogg"
+	volume = 1
+}
+
+music = {
+	name = "En Fordringsfull Liten Dame"
+	file = "en_fordringsfull_liten_dame.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Når lysene tennes der hjemme"
+	file = "nar_lysene_tennes_der_hjemme.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sjømannsjul på Hawaii"
+	file = "sjomannsjul_pa_hawaii.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Som duft av røde roser"
+	file = "som_duft_av_rode_rosertango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sommerkvelden"
+	file = "sommerkveldens_melodi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tamara"
+	file = "tamara.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ungdomsminnen"
+	file = "ungdomsminnen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vi seiler mot lykken"
+	file = "vi_seiler_mot_lykken.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wooji wooji wooj"
+	file = "wooji_wooji_wooj.ogg"
+	volume = 1
+}
+
+# FINLAND
+
+music = {
+	name = "Elämää juoksuhaudassa"
+	file = "elamaa_juoksuhaudassa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kaarina"
+	file = "kaarina.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kuljen eksyksissä"
+	file = "kuljen_eksyksissa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kuusamo"
+	file = "kuusamo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Laitakaupungin lapsi"
+	file = "laitakaupungin_lapsi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Liisa pien"
+	file = "liisa_pien.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Metsäkukkia"
+	file = "metsakukkia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Njet Molotoff"
+	file = "njet_molotoff.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rantakoivun alla"
+	file = "rantakoivun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Syysunelmia"
+	file = "syysunelmia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Uraliin"
+	file = "uraliin.ogg"
+	volume = 1
+}
+
+# SWEDEN
+
+music = {
+	name = "Du svarte zigenare"
+	file = "du_svarte_zigenare.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Godnatt-Valsen"
+	file = "godnatt_valsen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kärlekens små ord"
+	file = "kalekens_sma_ord.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen (Svenska Version)"
+	file = "lili_marleen_svenska.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Min soldat"
+	file = "min_soldat.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Öppna ditt fönster"
+	file = "oppna_ditt_fonster.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Öerallt"
+	file = "overallt.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Skymningstango"
+	file = "skymningstango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Soldatens Jul"
+	file = "soldatens_jul.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zigenarveolinen Sjunger än"
+	file = "zigenarviolinen_sjunger_an.ogg"
+	volume = 1
+}
+
+# SPAIN
+
+music = {
+	name = "Chiclanera"
+	file = "angelillo_chiclanera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maria Salomé"
+	file = "angelillo_maria_salome.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mi Jaca"
+	file = "angelillo_mi_jaca_1937.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Alas"
+	file = "celia_gamez_alas_de_yola_1941.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cicatrices"
+	file = "celia_gamez_cicatrices_1927.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pichi"
+	file = "celia_gamez_pichi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vivir"
+	file = "celia_gamez_vivir_1940.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Manolo de Mis Amores"
+	file = "estrellita_de_palma_manolo_de_mis_amores.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Deja Que Me Vaya"
+	file = "flor_de_cordoba_deja_que_me_vaya.ogg"
+	volume = 1
+}
+
+music = {
+	name = "No Me Quieras Tanto"
+	file = "gracia_de_triana_no_me_quieras_tanto_1945.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Granada"
+	file = "granada_caterina_valente.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Aeroplano / La Segadora"
+	file = "jose_oto_el_aeroplano_la_segadora.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Sal Se Te Va Cayendo / La Verguenza Ahora Se Vende"
+	file = "jose_oto_la_sal_se_te_va_cayendo_la_verguenza_ahora_se_vende.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Delante de Mi Mare"
+	file = "la_nina_de_los_peines_delante_de_mi_mare.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Lili Marleen (Version Española)"
+	file = "lili_marleen_spanish_version_gomez_naharro.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Aires de Barbate"
+	file = "nino_marchena_aires_de_barbate_alegrias.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Al Son de Mi Pasodoble"
+	file = "nino_marchena_al_son_de_mi_pasodoble.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Rosa"
+	file = "nino_marchena_la_rosa_milonga.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Dia de la Fuga"
+	file = "sarita_herrera_el_dia_de_la_fuga.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sombras"
+	file = "sombras_margarita_cueto_y_luis_alvarez.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pasodoble"
+	file = "valverde_y_estelles_pasodoble_de_la_marcha_de_cadiz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Chica del 17"
+	file = "mercedes_seros_la_chica_del_17.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Madre, Comprame un Negro"
+	file = "pepita_ramos_madre_comprame_un_negro.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anda Jaleo"
+	file = "federico_garcia_anda_jaleo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Poco a Poco"
+	file = "bella_dorita_poco_a_poco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Amapola"
+	file = "miguel_fleta_amapola.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Colegiala"
+	file = "carmelita_audbert_la_colegiala.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Viajera"
+	file = "lolita_garrido_viajera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mírame"
+	file = "celia_gamez_mirame.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Si Vas A París Papa"
+	file = "celia_gamez_si_vas_a_paris_papa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ya hemos pasao!"
+	file = "celia_gamez_ya_hemos_pasao.ogg"
+	volume = 1
+}
+
+# BRAZIL
+
+music = {
+	name = "Palpite Infeliz"
+	file = "aracy_de_almeida_palpite_infeliz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Capelinha do Caração"
+	file = "carmen_miranda_capelinha_do_caracao.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chica Chica Boom Chic"
+	file = "carmen_miranda_chica_chica_boom_chic.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Disseram que eu Voltei Americanizada"
+	file = "carmen_miranda_disseram_que_eu_voltei_americanizada.ogg"
+	volume = 1
+}
+
+music = {
+	name = "E o mundo não se acabou"
+	file = "carmen_miranda_e_o_mundo_nao_se_acabou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Feticio da Villa"
+	file = "feitico_da_vila_aracy_de_almeida.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen (Versão em Português)"
+	file = "lili_marlene_in_portuguese.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Não tenho lágrimas"
+	file = "nao_tenho_lagrimas_patricio_teixeira.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sabiá Laranjeira"
+	file = "patricio_teixeira_sabia_laranjeira.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jacarepaguá"
+	file = "vocalistas_tropicais_jacaperagua.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tão Fácil, Tão Bom"
+	file = "vocalistas_tropicais_tao_facil_tao_bom.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tico-Tico no Fubá"
+	file = "orquestra_colbaz_tico_tico_no_fuba.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Não Há"
+	file = "francisco_alves_mario_reis_nao_ha.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Quando souberes amar"
+	file = "francisco_alves_quando_souberes_amar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Santa"
+	file = "francisco_alves_santa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Se é pecado"
+	file = "francisco_alves_se_e_pecado.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Apogeu"
+	file = "francisco_alves_apogeu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Filosofia"
+	file = "noel_rosa_filosofia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Três Apitos"
+	file = "noel_rosa_tres_apitos.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lenço no pescoço"
+	file = "wilson_batista_lenco_no_pescoco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "O Bonde São Januário"
+	file = "ataulfo_alves_o_bonde_sao_januario.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Aquarela do Brasil"
+	file = "francisco_alves_aquarela_do_brasil.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Foi Ela"
+	file = "francisco_alves_foi_ela.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Felicidade"
+	file = "noel_rosa_felicidade.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rosa"
+	file = "orlando_silva_rosa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Naquele tempo"
+	file = "abilio_lessa_naquele_tempo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "O Belo e A Bela"
+	file = "grupo_do_nelson_o_belo_e_a_bela.ogg"
+	volume = 1
+}
+
+music = {
+	name = "É logo alí"
+	file = "dante_santoro_e_logo_ali.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pra que mentir?"
+	file = "silvio_caldas_pra_que_mentir.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tenha pena de Mim"
+	file = "aracy_de_almeida_tenha_pena_de_mim.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Meu limão, meu limoeiro"
+	file = "jorge_fernandes_meu_limao_meu_limoeiro.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vou sambar em Madureira"
+	file = "jorge_veiga_vou_sambar_em_madureira.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Brasil pandeiro"
+	file = "anjos_do_inferno_brasil_pandeiro.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Eu quero um Samba"
+	file = "namorados_da_lua_eu_quero_um_samba.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Seu Libório"
+	file = "vassourinha_seu_liborio.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Boneca de pixe"
+	file = "carmen_miranda_e_almirante_boneca_de_pixe.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Baião"
+	file = "carmen_miranda_and_the_andrew_sisters_baiao.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Voltei pro morro"
+	file = "carmen_miranda_voltei_pro_morro.ogg"
+	volume = 1
+}
+
+# ARGENTINA
+
+music = {
+	name = "Yo No Se Que Me Han Hecho Tus Ojos"
+	file = "ada_falcon_yo_no_se_que_me_han_hecho_tus_ojos.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Adios"
+	file = "el_adios_ignacio_corsini.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sombras"
+	file = "ignacio_corsini_sombras_tango.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zaraza"
+	file = "ignacio_corsini_zaraza.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Me Enamore Una Vez"
+	file = "me_enamore_una_vez_ada_falcon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nostalgias"
+	file = "nostalgias_osvaldo_fresedo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Plegaria"
+	file = "orchestra_bianca_plegaria.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rodriguez Pegna"
+	file = "orchestra_bianca_rodriguez_pegna.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Buscandote"
+	file = "osvaldo_fresed_o_buscandote.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Te quiero"
+	file = "te_quiero_ada_falcon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Caminito"
+	file = "carlos_gardel_caminito.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Frou-frou"
+	file = "agustin_magaldi_frou_frou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "En un Bosque de la China"
+	file = "feliciano_brunelli_en_un_bosque_de_la_china.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Noches de Hungria"
+	file = "enrique_rodriguez_noches_de_hungria.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Por Una Cabeza"
+	file = "carlos_gardel_por_una_cabeza.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Caravana de Gitanos"
+	file = "orquesta_victor_valente_y_caceres_caravana_de_gitanos.ogg"
+	volume = 1
+}
+
+
+# BULGARIA
+
+music = {
+	name = "Chuy Dete"
+	file = "chuy_dete.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dalech ot Roden Kat"
+	file = "dalech_ot_roden_kat.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marlin Blgarsk"
+	file = "lili_marlin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lyubovta e Kratka"
+	file = "lyubovta_e_kratka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ne Chakay Me"
+	file = "ne_chakay_me.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Opasni Sa Tvoite Ochi"
+	file = "opasni_sa_tvoite_ochi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sreshtata v Parka"
+	file = "sreshtata_v_parka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tvoyata Lyubov"
+	file = "tvoyata_lyubov.ogg"
+	volume = 1
+}
+
+music = {
+	name = "V Malkata Sladkarnica"
+	file = "v_malkata_sladkarnica.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vseka Prolet Preminava"
+	file = "vseka_prolet_preminava.ogg"
+	volume = 1
+}
+
+# GREECE
+
+music = {
+	name = "Apó To Vrády, Os To Proí"
+	file = "apo_to_vrady_es_to_proi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Atakti"
+	file = "atakti.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chronia Ston Peraia"
+	file = "chronia_ston_peraia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dimitroula mou"
+	file = "dimitroula_mou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fragosyriani"
+	file = "fragosyriani.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marleen (Ellinikí Ékdosi)"
+	file = "lili_marleen_greek.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mávra Mátia Mávra Frýdia"
+	file = "mavra_matia_mavra_frydia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "To Haremi sto Hamam"
+	file = "to_haremi_sto_hamam.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vale me Stin Agalia Sou"
+	file = "vale_me_stin_agalia_sou.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yanousena"
+	file = "yanousena.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Misirlou"
+	file = "tetos_dimitriadis_misirlou.ogg"
+	volume = 1
+}
+
+# TURKEY
+
+music = {
+	name = "Beni Unutma"
+	file = "beni_unutma.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Gönlüm Sensiz Olmaz"
+	file = "gonlum_sensiz_olmaz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Gündüzüm Gece Oldu"
+	file = "gunduzum_gece_oldu.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hasret"
+	file = "hasret.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hicran"
+	file = "hicran.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mâzi kalbimde bir yaradır"
+	file = "mazi_kalbimde_bir.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mehtaplı Gece"
+	file = "mehtapli_gece.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ne Tatli Bir an"
+	file = "ne_tatil_bir_an.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sen Kuzu Gibi"
+	file = "sen_kuzu_gibi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sev beni unutma beni"
+	file = "sev_beni_unutma_beni.ogg"
+	volume = 1
+}
+
+# IRAN
+
+music = {
+	name = "Ashofteh Hali"
+	file = "ashofteh_hali.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bass Kon"
+	file = "bass_kon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Moshir Homayoon Shahrdar - Persian-Tuned Piano"
+	file = "persian_tuned_piano.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Porsoon Porsoon"
+	file = "porsoon_porsoon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Robaleh Jan"
+	file = "robaleh_jan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Samarehe Golha"
+	file = "samarehe_golha.ogg"
+	volume = 1
+}
+
+# AUSTRIA
+
+music = {
+	name = "Blauer Mond"
+	file = "blue_moon.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Die Reblaus"
+	file = "die_reblaus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Du und ich im Mondenschein"
+	file = "du_und_ich_im_mondenschein.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fräulein Madeleine"
+	file = "fraulein_madeleine.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mein kleiner Teddybär"
+	file = "mein_kleiner_teddybar.ogg"
+	volume = 1
+}
+
+# BELGIUM
+
+music = {
+	name = "Begin the Beguine"
+	file = "begin_the_beguine.ogg"
+	volume = 1
+}
+
+music = {
+	name = "C'est Magique"
+	file = "cest_magique.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Gracieusette"
+	file = "gracieusette.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Harlem Swing"
+	file = "harlem_swing.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le Cheik"
+	file = "le_cheik.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Place de Broukere"
+	file = "place_de_broukere.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Souvenir de Bruxelles"
+	file = "souvenir_de_bruxelles.ogg"
+	volume = 1
+}
+
+# SWITZERLAND
+
+music = {
+	name = "Dollar"
+	file = "dollar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le vampire du Faubourg"
+	file = "le_vampire_du_faubourg.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Margritli-Lied"
+	file = "margritli_lied.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Swing in Switzerland"
+	file = "swing_in_switzerland.ogg"
+	volume = 1
+}
+
+music = {
+	name = "wie gohts mister Yankee"
+	file = "wie_gohts_mister_yankee.ogg"
+	volume = 1
+}
+
+# IRELAND
+
+music = {
+	name = "Goodbye Mike, Goodbye Pat"
+	file = "goodbye_mike_goodbye_pat.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mill Pond"
+	file = "millpond.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The Spinning Wheel"
+	file = "the_spinning_wheel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "What Will You Do Love"
+	file = "what_will_you_do_love.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Whistle, Daughter, Whistle"
+	file = "whistle_daughter_whistle.ogg"
+	volume = 1
+}
+
+# PORTUGAL
+
+music = {
+	name = "A Canção do Futebol"
+	file = "a_cancao_do_futebol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A Orfãsita"
+	file = "a_orfacita.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Aldeia da roupa branca"
+	file = "aldeia_da_roupa_branca.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Amor Pungente"
+	file = "amor_pungente.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cabelo Branco"
+	file = "cabelo_branco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fado do Ciúme"
+	file = "fado_do_ciume.ogg"
+	volume = 1
+}
+
+music = {
+	name = "O Vinho É Foguete"
+	file = "o_vinho_e_foguete.ogg"
+	volume = 1
+}
+
+# ESTONIA
+
+music = {
+	name = "Emajõe Jutustus"
+	file = "emajoe_jutustus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hammusta, Mihkel!"
+	file = "hammusta_mihkel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Raha paneb rattad käima"
+	file = "raha_paneb_rattad_kaima.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rikas ja Vaene"
+	file = "rikas_ja_vaene.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tule ääres istun mina..."
+	file = "tule_aares_istun_mina.ogg"
+	volume = 1
+}
+
+# LATVIA
+
+music = {
+	name = "Draudzībai"
+	file = "draudzibai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jūrnieka dziesma"
+	file = "jurnieka_dziesma.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kulšanas laikā"
+	file = "kulsanas_laika.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lili Marlen (Latviešu Versija)"
+	file = "lili_marleen_latvian.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Meklējot mežā riekstus…"
+	file = "meklejot_meza_riekstus.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Nie płacz ty moj bejbi"
+	file = "piotr_leszczenko_nie_placz_ty_moj_bejbi.ogg"
+	volume = 1
+}
+
+# LITHUANIA
+
+music = {
+	name = "Ei Tu, Mergyte"
+	file = "ei_tu_mergyte.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Maryte Melynake"
+	file = "maryte_melynake.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pasaka"
+	file = "pasaka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Paskutini Sekmadieni"
+	file = "paskutini_sekmadieni.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tukstanciai Ziedu"
+	file = "tukstanciai_ziedu.ogg"
+	volume = 1
+}
+
+# ALBANIA
+
+music = {
+	name = "Asaman moj lule"
+	file = "asaman_moj_lule.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kur më vjen burri nga stani"
+	file = "kur_me_vjen_burri.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Qaj moj Minushe"
+	file = "qaj_moj_minushe.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Te dua moj goce e vogel"
+	file = "te_dua.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Zare trendafile"
+	file = "zare_trendafile.ogg"
+	volume = 1
+}
+
+# CHILE
+
+music = {
+	name = "Bailando En El Casanova"
+	file = "bailando_en_el_casanova.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dos Corazones"
+	file = "jorge_abril_dos_corazones_vals.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Joya del Pacifico"
+	file = "la_joya_del_pacifico.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Quiltro"
+	file = "las_cuatro_huasas_el_quiltro.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Papa Araucana"
+	file = "las_cuatro_huasas_papa_araucana.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Relojito"
+	file = "las_cuatro_huasas_el_relojito.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Chacrita"
+	file = "las_cuatro_huasas_la_chacrita.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Los Ojos De Mi Negra"
+	file = "los_cuatro_huasos_los_ojos_de_mi_negra.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Martirio"
+	file = "los_cuatro_huasos_el_martirio.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Antofagasta"
+	file = "natalio_tursi_antofagasta.ogg"
+	volume = 1
+}
+
+music = {
+	name = "En Mejillones Tuve Un Amor"
+	file = "porfirio_diaz_en_mejillones_tuve_un_amor.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Valparaiso"
+	file = "blanca_tejada_valparaiso.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Embrujo"
+	file = "porfirio_diaz_embrujo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Antofagasta Dormida"
+	file = "gamelin_guerra_antofagasta_dormida.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Los Estudiantes Pasan"
+	file = "em_chiappo_los_estudiantes_pasan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Adios al Septimo de Linea"
+	file = "federico_ojeda_adios_al_septimo_de_linea.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Corazones Partidos"
+	file = "duo_ruiz_acuna_corazones_partidos.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Besos Frios"
+	file = "pilar_arcos_besos_frios.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vanidad"
+	file = "armando_gonzales_malbran_vanidad.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jugete de Amor"
+	file = "los_guasos_de_chincolco_jugete_de_amor.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Volantin"
+	file = "los_quincheros_el_volantin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Los Planteros"
+	file = "duo_salinas_paez_los_planteros.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "A Motu Yaney"
+	file = "rosita_serrano_a_motu_yaney.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Manisero"
+	file = "rosita_serrano_el_manisero.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Una Pena y Un Cariño"
+	file = "rayen_quitral_una_pena_y_un_carino.ogg"
+	volume = 1
+}
+
+music = {
+	name = "A La Mar Fui Por Naranjas"
+	file = "hermanos_govea_a_la_mar_fui_por_naranjas.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sau Sau"
+	file = "felipe_riroroco_sau_sau.ogg"
+	volume = 1
+}
+
+# CUBA
+
+music = {
+	name = "Cafunga"
+	file = "cafunga_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Coubanakan"
+	file = "coubanakan_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "La Conga da Jaruco"
+	file = "la_conga_de_jaruco_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Panama"
+	file = "panama_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rumba Azul"
+	file = "rumba_azul_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rumba Tambah"
+	file = "rumba_tambah_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Siboney"
+	file = "siboney_lecuona_cuban_boys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dime Adios"
+	file = "lecuona_cuban_boys_dime_adios.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sonoro"
+	file = "machito_and_his_orchestra_sonoro.ogg"
+	volume = 1
+}
+
+# SIAM
+
+music = {
+	name = "Homrong Chan Chao"
+	file = "homrong_chang_chao.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Khaek Lopburi"
+	file = "khaek_lobpuri.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mon Ap Son"
+	file = "mon_ap_son.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pleng Sen Lao"
+	file = "pleng_sen_lao.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rabam Dawadoeng"
+	file = "rabam_dawadoeng.ogg"
+	volume = 1
+}
+
+# ETHIOPIA
+
+music = {
+	name = "Fikre Tiztaye"
+	file = "asefa_abate_fikre_tiztaye.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Aderech arada"
+	file = "ethiopian_music_aderech_arada_by_menilik_wosenachew.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Haile Bertate Kebre Moges"
+	file = "haile_bertate_kebre_moges_ethiopian_orthodox_mezmur.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sanjaw Sew Bela"
+	file = "lema_gebrehiwot_sanjaw_sew_bela.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mamiténna Kèbbèdè"
+	file = "old_ethiopian_song.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yirga Dubale"
+	file = "yirga_dubale_ethiopian_patriotic_song.ogg"
+	volume = 1
+}
+
+# VENEZUELA
+
+music = {
+	name = "Carmencita"
+	file = "carmencita_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Juliana"
+	file = "juliana_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Las Palmas de Maracaibo"
+	file = "las_palmas_de_maracaibo_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Venezuela"
+	file = "venezuela_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Luna de Maracaibo"
+	file = "luna_de_maracaibo_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Amazonas"
+	file = "amazonas_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Tu y Yo"
+	file = "tu_y_yo_lionel_belasco.ogg"
+	volume = 1
+}
+
+music = {
+	name = "El Democrata"
+	file = "el_democrata_lionel_belasco.ogg"
+	volume = 1
+}
+
+# COLUMBIA
+
+music = {
+	name = "Cultivando Rosas"
+	file = "cultivando_rosas_sarita_herrera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pasillo Colombiano"
+	file = "olaya_herrera_pasillo_hernando_rico_velandia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Qué Pasó"
+	file = "raul_lopez_que_paso.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Loca Ansiedad"
+	file = "raul_lopez_loca_ansiedad.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Despedida"
+	file = "duo_espinosa_y_bedoya_despedida.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Himno a Bolivar"
+	file = "fortunio_bonanov_y_pilar_arcos_himno_a_bolivar.ogg"
+	volume = 1
+}
+
+# ECUADOR & PANAMA
+
+music = {
+	name = "Goin' To Town"
+	file = "goin_to_town_luis_russell_orch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Carlos Bonilla Chavez Classical Guitar"
+	file = "carlos_bonilla_chavez_classical_guitar.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Golondrina"
+	file = "anita_villate_quevedo_y_alcides_briceño_golondrina.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Pasillo"
+	file = "pasillo_traditional_ecuadorian_music.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cantinero"
+	file = "hermanas_lozano_cantinero_albazo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Estando Preso En La Carcel"
+	file = "hermanas_lozano_estando_preso_en_la_carcel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Carmamba Guambrita Linda"
+	file = "hermanas_lozano_caramba_guambrita_linda.ogg"
+	volume = 1
+}
+
+music = {
+	name = "En Mi Soledad"
+	file = "ibarra_y_medin_en_mi_soledad.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yo Quiero Un Amor"
+	file = "ibarra_y_medina_yo_quiero_un_amor.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Me Duele el Corazón"
+	file = "olimpo_cardenas_me_duele_el_corazon.ogg"
+	volume = 1
+}

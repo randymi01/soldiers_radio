@@ -1,0 +1,147 @@
+
+music_station = "radio_buenos_aires"
+
+music = {
+	song = "Yo No Se Que Me Han Hecho Tus Ojos"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "El Adios"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sombras"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zaraza"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Me Enamore Una Vez"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nostalgias"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Plegaria"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rodriguez Pegna"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Buscandote"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Te quiero"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Caminito"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Frou-frou"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "En un Bosque de la China"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Noches de Hungria"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Por Una Cabeza"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Caravana de Gitanos"
+
+	chance = {
+		factor = 1
+
+	}
+}

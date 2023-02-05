@@ -1,0 +1,101 @@
+
+music_station = "radio_helsinki"
+
+music = {
+	song = "Elämää juoksuhaudassa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kaarina"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kuljen eksyksissä"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kuusamo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Laitakaupungin lapsi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Liisa pien"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Metsäkukkia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Njet Molotoff"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rantakoivun alla"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Syysunelmia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Uraliin"
+
+	chance = {
+		factor = 1
+
+	}
+}

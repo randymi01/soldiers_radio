@@ -1,0 +1,92 @@
+
+music_station = "radio_ankara"
+
+music = {
+	song = "Beni Unutma"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Gönlüm Sensiz Olmaz"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Gündüzüm Gece Oldu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hasret"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hicran"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mâzi kalbimde bir yaradır"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mehtaplı Gece"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ne Tatli Bir an"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sen Kuzu Gibi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sev beni unutma beni"
+
+	chance = {
+		factor = 1
+
+	}
+}

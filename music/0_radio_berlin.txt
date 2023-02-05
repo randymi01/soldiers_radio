@@ -1,0 +1,461 @@
+music_station = "radio_berlin"
+
+music = {
+	song = "Ich habe ein Millionen-Dollar-Baby gefunden"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Antje, mein blondes Kind"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Bjrneborgarnas Marsch"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Bum Bum!"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Das alte Spinnrad"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Der Mond Scheint In Mein Kmmerlein"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Du bist meine große Leidenschaft"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Du bist mein Typ"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Du kannst nicht treu sein"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Du Schnste vom Stdtel schwarzbraunes Mdel"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Du brauchst von meinen Tränen"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Eine Seefahrt, die ist lustig"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Erika by Heyn-Quartett"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Wochenende"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Micaela"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Glocken der Heimat"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Schuricke-Terzett - Schön ist die Welt"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Hein Mück"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Heut' stechen wir ins blaue Meer"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Ich geh' auf große Fahrt, Marie!"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ich bin Rosengarten von Sanssouci"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "In Sanssouci, am Mühlenberg"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "In Lamberts Nachtlokal"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "In meiner Badewanne bin ich Kapitän"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ja und nein!"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Kleines Mädel"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Komm zurück"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Komm zurück 2"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Kommen Sie morgen wieder"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lebe wohl, ade!"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Leonore"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lili Marleen"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Mach dir nichts daraus"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Die Antwort weiss ganz allein der Wind"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Wieder verlieben"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lili Marleen by Marlene Dietrich"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lili Marlene"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Sag mir, wo die Blumen sind"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Wenn Die Soldaten"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Musik, Musik, Musik!"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lab Die Frau Die Dich Liebt Niemand"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Rosemarie"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Roter Mohn"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ruck Zuck"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Sag´ mir nicht «Adieu»..."
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "So Geht"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Spaziergang"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Stuka ber Afrika"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Swing aus Berlin"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Tschingta, Tschingta, Bummtara!"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Wann wirst Du wieder bei mir sein?"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Wenn ein junger Mann kommt"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Besuch am Abend"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Zigeuner, Du hast mein Herz gestohlen"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Wenn Die Soldaten Durch Die Stadt Marschieren"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}

@@ -1,0 +1,579 @@
+music_station = "radio_paris"
+
+music = {
+	song = "Boum"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Douce France"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Je Chante"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La mer"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Que Reste-T-il De Nos Amours"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vous etes jolie"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Derniere Bergere"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Elle Frequent ait la Rue Pigalle"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Il ne faut pas briser un rêve"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Seul Alone"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Le Plus Joli Rêve"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lys Gauty - Une chanson damour"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "J'attendrai by Jean Sablon"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "J'attendrai by Rina Ketty"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "J'attendrai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Un baiser"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Les prénoms effacés"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Je Chante"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Conga Blicoti"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La chanson de l'exposition"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La madone aux fleurs"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Le Premier Rendez-Vous"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Seule ce soir"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mon amant de Saint Jean"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Bouquet De Paris"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mon amant de la coloniale"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "O Mia Bella Napoli! (O ma belle Naples!)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "On N'a Pas Tous Les Jours Vingt Ans"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "On se fait Pouet! Pouet!"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Le premier rendez vous"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Parlami d'amore Mariù (Parle-moi de ton amour Marius)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "C'était écrit"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Reginella Campagnola"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chaque Soir Jattends Lamourjede Nacht"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tes Mensonges"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sous les ponts de Paris"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sur Un Fil"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen by Suzy Solidor"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Swing à Paris"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "L'heure du swing!"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tango de Paris"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ave Maria"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Besame Mucho"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ecoutez les mandolines"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Écris-moi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Il pleut sur la route"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "J'attendrai by Tino Rossi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La romance de Nadir"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Le tango bleu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Le temps des cerises"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Les Pêcheurs de perles"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Loin des guitares"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Marinella"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La chanson du gondolier"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "O Corse Ile Damour"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Poème dans tes yeux"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tant Qu'il Y Aura Des Étoiles"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tchi-tchi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Un Violon dans la Nuit by Tino Rossi"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "La Vie en Rose"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Un Violon dans la Nuit"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Belleville"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Cou-cou"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Thé pour deux"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Si J'etais Blanche"
+
+	chance = {
+		factor = 1
+	}
+}

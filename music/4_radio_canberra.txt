@@ -1,0 +1,92 @@
+
+music_station = "radio_canberra"
+
+music = {
+	song = "Aussie Is Proud Of You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dreaming With Tears In My Eyes"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dreamy Lullaby Yodel"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Echoing Hils Yodel Back To Me"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lullaby Yodel - Wilf Carter"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Oh, Sydney, I Love You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Song of Australia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Strawberry Roan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Waltzing Matilda"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Yes Sir That's my Baby"
+
+	chance = {
+		factor = 1
+
+	}
+}

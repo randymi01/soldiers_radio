@@ -1,0 +1,228 @@
+
+music_station = "radio_mexico_city"
+
+music = {
+	song = "Perfidia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Malagueña Salerosa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Cucaracha"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Amor con Amor se Paga"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Boda Negra"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mal Hombre"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ojitos Verdes"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pajarito Herido"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Eres La Mas Consentida"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Violinera"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Serenata Ranchera"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cielito Lindo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cien Años"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Deja Que Salga La Luna"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Muy Despacito"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "Cuando Escuches Este Vals"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Yo Me Muero Donde Quiera"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Destino Cruel"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hoja Seca"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maria Candelaria"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Contigo en La Distancia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vagabundo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Flores y Espinas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Corrido del Norte"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hilos de Plata"
+
+	chance = {
+		factor = 1
+
+	}
+}

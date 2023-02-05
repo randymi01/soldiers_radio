@@ -1,0 +1,100 @@
+music_station = "radio_bucharest"
+
+music = {
+	song = "Ciocarlia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Danse Montagnarde"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Doina din Maramureş"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jandarmul"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Românca Lili Marleen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mai Spune-Mi Inca-Odata"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Minciuna"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pana cand nu te iubeam"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pe Marea Neagră"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vrei Sa Ne-Ntalnim Sambata Seara"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zaraza"
+
+	chance = {
+		factor = 1
+
+	}
+}

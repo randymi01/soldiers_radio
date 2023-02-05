@@ -1,0 +1,56 @@
+
+music_station = "radio_addis_ababa"
+
+music = {
+	song = "Fikre Tiztaye"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Aderech arada"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Haile Bertate Kebre Moges"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sanjaw Sew Bela"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mamiténna Kèbbèdè"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Yirga Dubale"
+
+	chance = {
+		factor = 1
+
+	}
+}

@@ -1,0 +1,426 @@
+music_station = "radio_rome"
+
+music = {
+	song = "Adesso viene il bello"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Solamente Tu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ba Ba Baciami Piccina"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cantate dei Legionari"
+
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+	}
+}
+
+music = {
+	song = "Amapola"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Amore, Amore"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chitarra romana"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dove Sta Zaza"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Il primo amore"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Paloma"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Piccinina"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen by Carlo Buti"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Non ti scordar di me"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Reginella Campagnola - Canto Popolare"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Signorinella pallida"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tornerai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Verde Luna"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vivere"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Senti l'Eco"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Divina Patria"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dopo La Tempesta"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Duce a noi"
+
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+	}
+}
+
+music = {
+	song = "Faccetta Nera"
+
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+	}
+}
+
+music = {
+	song = "Fiorin Fiorello"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Firenze"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Giovinezza"
+
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+	}
+}
+
+music = {
+	song = "Il Canto degli Italiani"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Inno a Roma"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen (Versione italiana)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "L'Uccellino della Radio"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Luna malinconica"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ma dove vai bellezza in bicicletta"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Male Gambe"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Voglio la mamma"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Me ne frego"
+
+	chance = {
+		factor = 1
+		modifier = {
+			factor = -1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+	}
+}
+
+music = {
+	song = "Mediterraneo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mille lire al mese"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Piccolo Chalet"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Moj Milane, jabuko sa grane"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ti saluto (Vado in Abissinia)"
+
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+	}
+}
+
+music = {
+	song = "Tornerai (J'attendrai) by Visconti"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vincere vincere vincere"
+
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			has_war = yes
+		}
+
+
+	}
+}
+
+music = {
+	song = "Zonzo"
+
+	chance = {
+		factor = 1
+
+	}
+}

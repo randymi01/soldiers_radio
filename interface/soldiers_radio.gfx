@@ -1,0 +1,229 @@
+spriteTypes = {
+	
+
+	spriteType = {
+		name = "GFX_radio_bbc_album_art"
+		texturefile = "gfx/radio_bbc_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_paris_album_art"
+		texturefile = "gfx/radio_paris_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_berlin_album_art"
+		texturefile = "gfx/radio_berlin_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_rome_album_art"
+		texturefile = "gfx/radio_rome_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_new_york_album_art"
+		texturefile = "gfx/radio_new_york_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_moscow_album_art"
+		texturefile = "gfx/radio_moscow_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_tokyo_album_art"
+		texturefile = "gfx/radio_tokyo_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_nanjing_album_art"
+		texturefile = "gfx/radio_nanjing_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_addis_ababa_album_art"
+		texturefile = "gfx/radio_addis_ababa_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_amsterdam_album_art"
+		texturefile = "gfx/radio_amsterdam_album_art.tga"
+		noOfFrames = 2
+	}	
+	spriteType = {
+		name = "GFX_radio_ankara_album_art"
+		texturefile = "gfx/radio_ankara_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_athens_album_art"
+		texturefile = "gfx/radio_athens_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_bangkok_album_art"
+		texturefile = "gfx/radio_bangkok_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_belgrade_album_art"
+		texturefile = "gfx/radio_belgrade_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_bern_album_art"
+		texturefile = "gfx/radio_bern_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_brasilia_album_art"
+		texturefile = "gfx/radio_brasilia_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_brussels_album_art"
+		texturefile = "gfx/radio_brussels_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_bucharest_album_art"
+		texturefile = "gfx/radio_bucharest_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_budapest_album_art"
+		texturefile = "gfx/radio_budapest_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_buenos_aires_album_art"
+		texturefile = "gfx/radio_buenos_aires_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_canberra_album_art"
+		texturefile = "gfx/radio_canberra_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_copenhagen_album_art"
+		texturefile = "gfx/radio_copenhagen_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_dublin_album_art"
+		texturefile = "gfx/radio_dublin_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_havana_album_art"
+		texturefile = "gfx/radio_havana_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_helsinki_album_art"
+		texturefile = "gfx/radio_helsinki_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_johannesburg_album_art"
+		texturefile = "gfx/radio_johannesburg_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_lisbon_album_art"
+		texturefile = "gfx/radio_lisbon_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_madrid_album_art"
+		texturefile = "gfx/radio_madrid_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_mexico_city_album_art"
+		texturefile = "gfx/radio_mexico_city_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_new_delhi_album_art"
+		texturefile = "gfx/radio_new_delhi_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_new_granada_album_art"
+		texturefile = "gfx/radio_new_granada_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_oslo_album_art"
+		texturefile = "gfx/radio_oslo_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_ottawa_album_art"
+		texturefile = "gfx/radio_ottawa_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_prague_album_art"
+		texturefile = "gfx/radio_prague_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_riga_album_art"
+		texturefile = "gfx/radio_riga_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_santiago_album_art"
+		texturefile = "gfx/radio_santiago_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_sofia_album_art"
+		texturefile = "gfx/radio_sofia_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_stockholm_album_art"
+		texturefile = "gfx/radio_stockholm_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_tallinn_album_art"
+		texturefile = "gfx/radio_tallinn_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_tehran_album_art"
+		texturefile = "gfx/radio_tehran_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_tirana_album_art"
+		texturefile = "gfx/radio_tirana_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_vienna_album_art"
+		texturefile = "gfx/radio_vienna_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_vilnius_album_art"
+		texturefile = "gfx/radio_vilnius_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_warsaw_album_art"
+		texturefile = "gfx/radio_warsaw_album_art.tga"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_radio_wellington_album_art"
+		texturefile = "gfx/radio_wellington_album_art.tga"
+		noOfFrames = 2
+	}
+}

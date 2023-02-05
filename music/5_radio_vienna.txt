@@ -1,0 +1,47 @@
+
+music_station = "radio_vienna"
+
+music = {
+	song = "Blauer Mond"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Die Reblaus"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Du und ich im Mondenschein"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Fräulein Madeleine"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mein kleiner Teddybär"
+
+	chance = {
+		factor = 1
+
+	}
+}

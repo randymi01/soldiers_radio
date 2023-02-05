@@ -1,0 +1,10 @@
+# Soldier's radio mod
+
+music = {
+	song = "soldiers_radio_maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

@@ -1,0 +1,444 @@
+
+music_station = "radio_moscow"
+
+music = {
+	song = "Ah Andrjusha"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Andrjusha. Foxtrot"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Bessarabjanka"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Bombardirovschiki"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Bryzgi Shampanskogo"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Dalnyj put"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Dni begut"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Druzja odnopolchane"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Esli mozhesh', prosti"
+
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "Fox-krakowiak"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Gedenk"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Golubka"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Gori, gori, moja zvezda"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Govori so mnoj o ljubvi"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Izvozchik"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ja ne proshajus"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ja vozvraschaju vash portret"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "J'attendrai by Efrem Flaks"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Katyusha"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lili Marlen Rus"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Markiza"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Mayn Shtetele Belz"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Mne beskonechno zhal'"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Na Volge shirokoj"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Nad rozovym morem"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nasha ljubov'"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ne zabud"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Oh Yossel Yossel"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ochechonya"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Osen'"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ozhidanije"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Pesenka otdyha"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Rio Rita"
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Samovar"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Sasha"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "School Waltz"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Shar goluboj"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Sinij platochek"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Skazhite, pochemu"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Tate Mame"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Tat'jana"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Temnaya noch'"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Ty pomnish"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Utomljonnoe solnce"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "V vagone poezda"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "V zemljanke"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Vecher na reide"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Vechnyj strannik"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Vengerka"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Vsjo chto bylo"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Waltz - Amur Waves"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Waltz - Blue Night"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Waltz - In a Public Garden"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Waltz - In the Forest near Battle Line"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Waltz No.2 - Dmitrij Shostakovich"
+
+	chance = {
+		factor = 1
+	}
+}

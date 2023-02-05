@@ -1,0 +1,250 @@
+music_station = "radio_warsaw"
+
+music = {
+	song = "Blondyneczka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ekstaza"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Fordanserka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Gramofonomanka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ja mam czas, ja poczekam"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jadzia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Polska Lili Marleen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Morfina"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Może kiedyś innym razem"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nie masz jak u nas w Krakowie"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ostatnia niedziela"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Poleczka spirytusowa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Porucznik jazdy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sapery"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tylko we Lwowie"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Warszawo, Moja Warszawo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Wspomnienia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Żołnierskie"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Opium"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Złociste chryzantemy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Piękne Rumunki"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Orchidea"
+
+	chance = {
+		factor = 1
+
+	}
+
+}
+
+music = {
+	song = "Ty nie jesteś winna"
+
+	chance = {
+		factor = 1
+
+	}
+
+}
+
+music = {
+	song = "Smutne"
+
+	chance = {
+		factor = 1
+
+	}
+
+}
+
+music = {
+	song = "Ach zostań"
+
+	chance = {
+		factor = 1
+
+	}
+
+}
+
+music = {
+	song = "Abduł bey"
+
+	chance = {
+		factor = 1
+
+	}
+
+}
+
+music = {
+	song = "Jesienna Piosenka"
+
+	chance = {
+		factor = 1
+
+	}
+
+}

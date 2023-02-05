@@ -1,0 +1,244 @@
+
+music_station = "radio_santiago"
+
+music = {
+	song = "Bailando En El Casanova"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dos Corazones"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "La Joya del Pacifico"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Quiltro"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Papa Araucana"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Relojito"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Chacrita"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Los Ojos De Mi Negra"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Martirio"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Antofagasta"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "En Mejillones Tuve Un Amor"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Valparaiso"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Embrujo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Antofagasta Dormida"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Los Estudiantes Pasan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Adios al Septimo de Linea"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Corazones Partidos"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Besos Frios"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vanidad"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jugete de Amor"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Volantin"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Los Planteros"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A Motu Yaney"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Manisero"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Una Pena y Un Cariño"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A La Mar Fui Por Naranjas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sau Sau"
+
+	chance = {
+		factor = 1
+
+	}
+}

@@ -1,0 +1,210 @@
+music_station = "radio_nanjing"
+
+music = {
+	song = "Shengkāi de huāduo manyue"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "Niukou he hudiejie"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hong shuilian"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zhōngguo lili ma lin"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zai Dang Nian"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jing Zhong Ren"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Yingtao shu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "San nian ge"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Shangri-La"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tianya genu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Xiang Dang Nian"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Xinxin"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Meigui meigui wo ai ni"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "Ye Shang Hai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jiāohuan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Xinyuan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Qiang Wei Chu Chu Kai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Siji zhi ge"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chuntian hai mei lai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Guangdong Yinyue"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chuntian de zaochen zai shanshang"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Buxiang yao ni"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "You sixiang de ren"
+
+	chance = {
+		factor = 1
+
+	}
+}

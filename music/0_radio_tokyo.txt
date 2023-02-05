@@ -1,0 +1,386 @@
+music_station = "radio_tokyo"
+
+music = {
+	song = "Kimi ga yo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ano Onekoete"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Aramaki"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Battō-tai māchi"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Nagasaki no chō"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chaina Tango"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Doki-no-Sakura"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Ejiputo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chichi yo, anata wa tsuyokatta"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Fīrudo toge"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Boufura hanamizuki gin-gun"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Kamome kanashi ya"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kawaī sū-chan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kigen ni saki roku hyaku-nen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Koiwa umibe de"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kōgun Banzai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rirī marurēn"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Manshū musume"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mei Hua San Nong"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sazanburaido"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nippon Rikugun"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Ā kurenai no chi wa moyuru"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Otomejuku"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Roei no Uta"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Sendo Kawai Ya"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Senjo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Shina no yoru"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Shouri no Hi made"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Shussei heishi o okuru uta"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Hageshī washi no uta"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Soshū yakyoku"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sutā"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Minami ni"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tokkōtaibushi"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Yuki no Shingun"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Zoku Aibakoh"
+
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "Zundoko Bushi"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Kamome"
+
+	chance = {
+		factor = 1
+	}
+}
+

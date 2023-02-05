@@ -1,0 +1,57 @@
+music_station = "radio_brussels"
+
+music = {
+	song = "Begin the Beguine"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "C'est Magique"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Gracieusette"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Harlem Swing"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Le Cheik"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Place de Broukere"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Souvenir de Bruxelles"
+
+	chance = {
+		factor = 1
+	}
+}

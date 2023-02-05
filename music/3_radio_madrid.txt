@@ -1,0 +1,285 @@
+
+music_station = "radio_madrid"
+
+music = {
+	song = "Chiclanera"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maria Salomé"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mi Jaca"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Alas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cicatrices"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pichi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vivir"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Manolo de Mis Amores"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Deja Que Me Vaya"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "No Me Quieras Tanto"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Granada"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Aeroplano / La Segadora"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Sal Se Te Va Cayendo / La Verguenza Ahora Se Vende"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Delante de Mi Mare"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen (Version Española)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Aires de Barbate"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Al Son de Mi Pasodoble"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Rosa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Dia de la Fuga"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sombras"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pasodoble"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Chica del 17"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Madre, Comprame un Negro"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Anda Jaleo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Poco a Poco"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Amapola"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Colegiala"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Viajera"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mírame"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Si Vas A París Papa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ya hemos pasao!"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}

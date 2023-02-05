@@ -1,0 +1,92 @@
+
+music_station = "radio_stockholm"
+
+music = {
+	song = "Du svarte zigenare"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Godnatt-Valsen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kärlekens små ord"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen (Svenska Version)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Min soldat"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Öppna ditt fönster"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Öerallt"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Skymningstango"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Soldatens Jul"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zigenarveolinen Sjunger än"
+
+	chance = {
+		factor = 1
+
+	}
+}

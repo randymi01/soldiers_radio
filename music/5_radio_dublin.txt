@@ -1,0 +1,47 @@
+
+music_station = "radio_dublin"
+
+music = {
+	song = "Goodbye Mike, Goodbye Pat"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mill Pond"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Spinning Wheel"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "What Will You Do Love"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Whistle, Daughter, Whistle"
+
+	chance = {
+		factor = 1
+
+	}
+}

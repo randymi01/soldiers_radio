@@ -1,0 +1,91 @@
+
+music_station = "radio_sofia"
+
+music = {
+	song = "Chuy Dete"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dalech ot Roden Kat"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lili Marlin Blgarsk"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lyubovta e Kratka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ne Chakay Me"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Opasni Sa Tvoite Ochi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sreshtata v Parka"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tvoyata Lyubov"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "V Malkata Sladkarnica"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vseka Prolet Preminava"
+
+	chance = {
+		factor = 1
+
+	}
+}

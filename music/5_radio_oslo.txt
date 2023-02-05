@@ -1,0 +1,92 @@
+
+music_station = "radio_oslo"
+
+music = {
+	song = "Bel ami, foxtrot"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "En Fordringsfull Liten Dame"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Når lysene tennes der hjemme"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sjømannsjul på Hawaii"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Som duft av røde roser"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sommerkvelden"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tamara"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ungdomsminnen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vi seiler mot lykken"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Wooji wooji wooj"
+
+	chance = {
+		factor = 1
+
+	}
+}

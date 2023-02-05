@@ -1,0 +1,47 @@
+
+music_station = "radio_tallinn"
+
+music = {
+	song = "Emajõe Jutustus"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hammusta, Mihkel!"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Raha paneb rattad käima"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rikas ja Vaene"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tule ääres istun mina..."
+
+	chance = {
+		factor = 1
+
+	}
+}

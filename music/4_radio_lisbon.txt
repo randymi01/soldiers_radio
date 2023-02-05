@@ -1,0 +1,65 @@
+
+music_station = "radio_lisbon"
+
+music = {
+	song = "A Canção do Futebol"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A Orfãsita"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Aldeia da roupa branca"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Amor Pungente"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cabelo Branco"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Fado do Ciúme"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "O Vinho É Foguete"
+
+	chance = {
+		factor = 1
+
+	}
+}

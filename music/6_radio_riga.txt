@@ -1,0 +1,56 @@
+
+music_station = "radio_riga"
+
+music = {
+	song = "Draudzībai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jūrnieka dziesma"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kulšanas laikā"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marlen (Latviešu Versija)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Meklējot mežā riekstus…"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nie płacz ty moj bejbi"
+
+	chance = {
+		factor = 1
+
+	}
+}

@@ -1,0 +1,782 @@
+music_station = "radio_new_york"
+
+music = {
+	song = "A Handful of Stars"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "All the Things you Are"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Always in My Heart"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "American Patrol"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A Nightingale Sang In Berkeley Square"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "At Last"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Begin the Beguine Artie Shaw"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I'll be Seeing You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "White Christmas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Caravan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Careless"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chattanooga Choo Choo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Danny Boy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dearly Beloved"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Diga Diga Doo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Don't Tell Me That Story"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A Sentimental Journey"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Stormy Weather by Duke Ellington"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Flamingo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "In The Mood"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Happy Days Are Here Again"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I Ain't Got Nobody"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I Cried for You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I Know Why"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "If I Had You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "In a Sentimental Mood"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "It Don't Mean a Thing"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marlene (English Version)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Little Brown Jug"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Lone Star Trail"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maiden's Prayers"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Milk Cow Blues"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Moonlight Mood"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Moonlight Serenade"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "My Prayer"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "My Reverie"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pennsylvania 6-5000"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Perfidia - Vocal"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Perfidia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Red Sails in the Sunset"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Serenade in Blue"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Somewhere Over the Rainbow"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Song of The Bandit"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Stairway to The Stars"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Star Dust"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Steel Guitar Rag"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Stormy Weather by Leo Reisman"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Take The A Train"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "That Old Black Magic"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Boogie Woogie Bugle Boy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Nearness of You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "This is The Army"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Trust in Me"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tuxedo Junction"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Stars Fell on Alabama"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "When You Wish Upon a Star"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zing! Went the Strings of My Heart"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Personality"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "G.I Jive"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Der Fuehers Face"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jumpin' Jive by Cab Calloway"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "This Train"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Passwonky"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "There's a Rainbow Around my Shoulder"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I Have to Have You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ain't Misbehavin'"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Bluer than Blue"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Oriental Swing"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I'm in The Market for You"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "You Run Your Mouth and I Run My Buisness"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I'm a Ding Dong Daddy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Strange Fruit"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Crazy He Calls Me"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Easy Living"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ac-Cent-Tchu-Ate The Positive"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pistol Packin' Mama"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dear Hearts and Gentle People (Bob Version)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Happy Times"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Way Back Home"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Anything Goes"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Undecided"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "One More Tomorrow"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A Wonderful Guy"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I Don't Wanna Set The World On Fire"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maybe"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Into Each Life Some Rain Must Fall"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dear Hearts and Gentle People (Bing Version)"
+
+	chance = {
+		factor = 1
+
+	}
+}

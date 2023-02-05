@@ -1,0 +1,83 @@
+
+music_station = "radio_havana"
+
+music = {
+	song = "Cafunga"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Coubanakan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "La Conga da Jaruco"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Panama"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rumba Azul"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rumba Tambah"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Siboney"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dime Adios"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sonoro"
+
+	chance = {
+		factor = 1
+
+	}
+}

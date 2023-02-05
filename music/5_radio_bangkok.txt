@@ -1,0 +1,47 @@
+
+music_station = "radio_bangkok"
+
+music = {
+	song = "Homrong Chan Chao"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Khaek Lopburi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mon Ap Son"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pleng Sen Lao"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rabam Dawadoeng"
+
+	chance = {
+		factor = 1
+
+	}
+}

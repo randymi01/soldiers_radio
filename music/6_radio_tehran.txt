@@ -1,0 +1,56 @@
+
+music_station = "radio_tehran"
+
+music = {
+	song = "Ashofteh Hali"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Bass Kon"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Moshir Homayoon Shahrdar - Persian-Tuned Piano"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Porsoon Porsoon"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Robaleh Jan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Samarehe Golha"
+
+	chance = {
+		factor = 1
+
+	}
+}

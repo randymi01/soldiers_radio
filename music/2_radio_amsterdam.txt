@@ -1,0 +1,191 @@
+
+music_station = "radio_amsterdam"
+
+music = {
+	song = "Dat Moet je Bekijken Piet"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Korenbloemblauw"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ojuffrouw Greetjewmv"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Als je voor een dubbeltje geboren bent..."
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Als Het Orgel Speelt"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Daar bij die molen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Diep In Mijn Hart"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Volendam Daar Staat een oude Molen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Heb je het Fordje al gezien"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Heeft u een Sigarenbandje"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kleine herdersjongen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nederlandse Lili Marleen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ik kan niet dansen, ik heb mieren in mijn broek"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Makkitania"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Nu vandaag de zorgen op zij"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Oh! jij lief ding"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rassenhaat"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sarie Marijs"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lied van de Watergeus"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Wie is Loesje?"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Zuiderzee Ballade"
+
+	chance = {
+		factor = 1
+
+	}
+}

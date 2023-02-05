@@ -1,0 +1,101 @@
+
+music_station = "radio_new_delhi"
+
+music = {
+	song = "Jawan Hai Mohabbat Haseen Hai Zamana"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Chupcup Khade Ho Zaroor Koi Baat Hai"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Deth Daans"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jhoom Jhoom Ke Nacho"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Kya Mil Gaya Bhagwan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lata Mangeshkar and Mukesh"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Main Kyaa Jaanuun Kyaa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Naushad"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Piya Milan Ko Jana"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Shahjehan"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tu Mera Chand Mein Tere Chandini"
+
+	chance = {
+		factor = 1
+
+	}
+}

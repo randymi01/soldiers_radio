@@ -1,0 +1,101 @@
+
+music_station = "radio_wellington"
+
+music = {
+	song = "Pō Atarau (Now Is the Hour)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Blue Smoke"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "E Pari Rā (The Warrior's Departure)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Karu Karu (A Fishing Shanty)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maori by The Jungle Band"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Maori by Duke Ellington"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pō Atarau (Now Is the Hour) by Ana Hato & Deane Waretini"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pokarekare (Maori Love Ditty)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Te Ariki (Abide With Me)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Karo (Poi Song)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Titi-Tōrea"
+
+	chance = {
+		factor = 1
+
+	}
+}

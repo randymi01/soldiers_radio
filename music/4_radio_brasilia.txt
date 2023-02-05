@@ -1,0 +1,346 @@
+
+music_station = "radio_brasilia"
+
+music = {
+	song = "Palpite Infeliz"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Capelinha do Caração"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "Chica Chica Boom Chic"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Disseram que eu Voltei Americanizada"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "E o mundo não se acabou"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Feticio da Villa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen (Versão em Português)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+
+music = {
+	song = "Não tenho lágrimas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sabiá Laranjeira"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jacarepaguá"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tão Fácil, Tão Bom"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tico-Tico no Fubá"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Não Há"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Quando souberes amar"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Santa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Se é pecado"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Apogeu"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Filosofia"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Três Apitos"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lenço no pescoço"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "O Bonde São Januário"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Aquarela do Brasil"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Foi Ela"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Felicidade"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rosa"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Naquele tempo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "O Belo e A Bela"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "É logo alí"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pra que mentir?"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tenha pena de Mim"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Meu limão, meu limoeiro"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Vou sambar em Madureira"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Brasil pandeiro"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Eu quero um Samba"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Seu Libório"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Boneca de pixe"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Baião"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Voltei pro morro"
+
+	chance = {
+		factor = 1
+
+	}
+}

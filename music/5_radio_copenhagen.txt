@@ -1,0 +1,92 @@
+
+music_station = "radio_copenhagen"
+
+music = {
+	song = "De 24 Røvere"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Den var ikke ret stor, men den var der"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Det var paa Frederiksberg og andre Steder"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "En Dør på klem"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "glemmer_du"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "I dit korte liv"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Léhar-Potpourri"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marleen (Dansk Version)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Med fuld musik"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Så slår to hjerter sødt i samme takt"
+
+	chance = {
+		factor = 1
+
+	}
+}

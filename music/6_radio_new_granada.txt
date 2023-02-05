@@ -1,0 +1,221 @@
+music_station = "radio_new_granada"
+
+music = {
+	song = "Carmencita"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Juliana"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Las Palmas de Maracaibo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Venezuela"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Luna de Maracaibo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Amazonas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Tu y Yo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "El Democrata"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cultivando Rosas"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pasillo Colombiano"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Qué Pasó"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Loca Ansiedad"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Despedida"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Himno a Bolivar"
+
+	chance = {
+		factor = 1
+
+			modifier = {
+			factor = 2
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Goin' To Town"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Carlos Bonilla Chavez Classical Guitar"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Golondrina"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Pasillo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Cantinero"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Estando Preso En La Carcel"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Carmamba Guambrita Linda"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "En Mi Soledad"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Yo Quiero Un Amor"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Me Duele el Corazón"
+
+	chance = {
+		factor = 1
+
+	}
+}

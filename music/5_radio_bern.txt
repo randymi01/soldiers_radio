@@ -1,0 +1,47 @@
+music_station = "radio_bern"
+
+
+music = {
+	song = "Dollar"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Le vampire du Faubourg"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Margritli-Lied"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Swing in Switzerland"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "wie gohts mister Yankee"
+
+	chance = {
+		factor = 1
+
+	}
+}

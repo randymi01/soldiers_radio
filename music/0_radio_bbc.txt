@@ -1,0 +1,506 @@
+music_station = "radio_bbc"
+
+music = {
+	song = "God Save the King"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Rule Britannia - 1922"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Me"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Anniversary Waltz"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "As Time Goes By"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Berlin or Bust"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Black Coffee"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Bless em All"
+
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "Boulevard of Broken Dreams"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "By The Waterfall"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Bye Bye Blues"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Cleaning My Rifle and Thinking of You"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "For All We Know"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "A Lady from Lancashire"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Goodnight, Lovely Little Lady"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Happy Days are Here Again"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Hot Time in The Town of Berlin"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "I Fell in Love with an Airman"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "I'll Be Yours"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "I'm Just Wearing My Heart Out for You"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "I'm Like a Sailor"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Imagine Me in The Maginot Line"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "In The Mood (Vocal)"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "It's a Long Way to Tipperary"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "The Lambeth Walk"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lili Marleen by Lale Andersen"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Lucky Me-Lovable You"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Old Ship Of Mine"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "One Hour with You"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Praise The Lord & Pass The Ammunition"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Stormy Weather by Freddy Martin"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Stormy Weather by Bert Ambrose"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "The Bombardier's Song"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "The Girl Who Loves a Soldier"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The King is still in London"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Show Of Shows"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The World Famous Doll Medley"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "There'll Always Be An England"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "There's A Ring Around The Moon"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "There's No Harm in Hoping"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "They Can't Black Out The Moon"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "They're Either Too Young or Too Old"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Too Many Tears"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Two Sleepy People"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "We're Gonna Hang Out Our Washing On The Siegfried Line"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "A Nightingale Sang In Berkeley Square"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Land of Hope & Glory"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Lili Marlene by Vera Lynn"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Now is The Hour"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sunrise Sunset"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The White Cliffs of Dover"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "When I Grow too Old to Dream"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "When The Lights Go On Again"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "We'll Meet Again"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "When They Sound the Last 'All Clear'"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Wishing (Will Make It So)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "With All My Heart"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "With You Here And Me Here"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "You'll Never Know"
+
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "Heartaches"
+
+	chance = {
+		factor = 1
+	}
+}

@@ -1,0 +1,119 @@
+
+music_station = "radio_johannesburg"
+
+music = {
+	song = "Dit is die Plek vir my Jo'burg"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Erika (Afrikaans)"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sohlangana"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Jive Marabi, Jive Marabi"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Mbube"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sarie Marais by Josef Marais"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sarie Marais"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Prisoner's Song"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Zulu Warrior"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Wiwi Singomlil' Ovhuthayo"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Sangena Mama"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Ngqo Ngqongo Vula"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Hambile"
+
+	chance = {
+		factor = 1
+
+	}
+}

@@ -1,0 +1,109 @@
+music_station = "radio_ottawa"
+
+music = {
+	song = "Always"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Bei Mir Bist Du Schoen"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Blue Orchids"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Dans ce temps là"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "J'en arrache"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Humoresque"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Its A Hundred To One"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Merry-go-round Waltz"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Rainbow on the River"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "Confessin' that I love you"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "That Old Feeling"
+
+	chance = {
+		factor = 1
+
+	}
+}
+
+music = {
+	song = "The Cannonball"
+
+	chance = {
+		factor = 1
+
+	}
+}
